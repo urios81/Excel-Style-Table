@@ -1,3 +1,7 @@
+#Excel_Style_Table {
+    width: 90%;
+    margin-top: 5px;
+}
 #Excel_Style_Table .filtered-out {
     display: none !important;
 }
