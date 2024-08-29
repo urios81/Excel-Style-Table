@@ -1,0 +1,6002 @@
+[
+    {
+        "Project_Name": "Development Tango",
+        "Country": "Burkina Faso",
+        "Price": 714550.79,
+        "Date": "2022-09-01"
+    },
+    {
+        "Project_Name": "Task Gamma",
+        "Country": "Zimbabwe",
+        "Price": 139646.74,
+        "Date": "2018-16-05"
+    },
+    {
+        "Project_Name": "Project Omega",
+        "Country": "Guinea",
+        "Price": 211108.78,
+        "Date": "2016-13-03"
+    },
+    {
+        "Project_Name": "Operation Alpha",
+        "Country": "Botswana",
+        "Price": 977024.28,
+        "Date": "2018-01-08"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Ivory Coast",
+        "Price": 897719.49,
+        "Date": "2024-30-11"
+    },
+    {
+        "Project_Name": "Initiative Echo",
+        "Country": "Kenya",
+        "Price": 545895.64,
+        "Date": "2022-22-04"
+    },
+    {
+        "Project_Name": "Initiative Omega",
+        "Country": "Central African Republic",
+        "Price": 602546.81,
+        "Date": "2023-01-07"
+    },
+    {
+        "Project_Name": "Scheme Tango",
+        "Country": "Congo",
+        "Price": 540482.51,
+        "Date": "2016-10-07"
+    },
+    {
+        "Project_Name": "Task Foxtrot",
+        "Country": "Somalia",
+        "Price": 279789.77,
+        "Date": "2016-08-09"
+    },
+    {
+        "Project_Name": "Project Gamma",
+        "Country": "Sudan",
+        "Price": 506488.66,
+        "Date": "2015-10-01"
+    },
+    {
+        "Project_Name": "Operation Bravo",
+        "Country": "Chad",
+        "Price": 478876.98,
+        "Date": "2024-09-05"
+    },
+    {
+        "Project_Name": "Development Delta",
+        "Country": "Tunisia",
+        "Price": 345579.0,
+        "Date": "2023-06-04"
+    },
+    {
+        "Project_Name": "Program Bravo",
+        "Country": "Angola",
+        "Price": 547631.0,
+        "Date": "2019-05-11"
+    },
+    {
+        "Project_Name": "Development Foxtrot",
+        "Country": "Egypt",
+        "Price": 846015.23,
+        "Date": "2019-12-03"
+    },
+    {
+        "Project_Name": "Program Bravo",
+        "Country": "Senegal",
+        "Price": 74014.95,
+        "Date": "2024-18-05"
+    },
+    {
+        "Project_Name": "Task Delta",
+        "Country": "Namibia",
+        "Price": 109471.27,
+        "Date": "2023-01-04"
+    },
+    {
+        "Project_Name": "Development Bravo",
+        "Country": "Equatorial Guinea",
+        "Price": 527940.7,
+        "Date": "2023-16-10"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Lesotho",
+        "Price": 565503.52,
+        "Date": "2015-05-04"
+    },
+    {
+        "Project_Name": "Plan Zeta",
+        "Country": "South Africa",
+        "Price": 585564.5,
+        "Date": "2022-07-08"
+    },
+    {
+        "Project_Name": "Operation Gamma",
+        "Country": "Guinea-Bissau",
+        "Price": 547424.83,
+        "Date": "2019-08-04"
+    },
+    {
+        "Project_Name": "Development Omega",
+        "Country": "Eritrea",
+        "Price": 367740.36,
+        "Date": "2015-20-10"
+    },
+    {
+        "Project_Name": "Initiative Foxtrot",
+        "Country": "Tunisia",
+        "Price": 666881.97,
+        "Date": "2021-12-12"
+    },
+    {
+        "Project_Name": "Development Tango",
+        "Country": "Senegal",
+        "Price": 891455.15,
+        "Date": "2020-27-05"
+    },
+    {
+        "Project_Name": "Scheme Sierra",
+        "Country": "Benin",
+        "Price": 920329.9,
+        "Date": "2021-10-05"
+    },
+    {
+        "Project_Name": "Program Bravo",
+        "Country": "Ethiopia",
+        "Price": 341866.35,
+        "Date": "2019-01-12"
+    },
+    {
+        "Project_Name": "Task Foxtrot",
+        "Country": "Comoros",
+        "Price": 824567.02,
+        "Date": "2021-05-08"
+    },
+    {
+        "Project_Name": "Operation Bravo",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 580037.27,
+        "Date": "2023-14-04"
+    },
+    {
+        "Project_Name": "Task Alpha",
+        "Country": "Djibouti",
+        "Price": 786550.05,
+        "Date": "2017-23-02"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Benin",
+        "Price": 913811.46,
+        "Date": "2015-23-12"
+    },
+    {
+        "Project_Name": "Program Gamma",
+        "Country": "Mauritius",
+        "Price": 299445.25,
+        "Date": "2020-07-12"
+    },
+    {
+        "Project_Name": "Program Sierra",
+        "Country": "Zimbabwe",
+        "Price": 906057.56,
+        "Date": "2016-27-01"
+    },
+    {
+        "Project_Name": "Plan Omega",
+        "Country": "Guinea-Bissau",
+        "Price": 553898.12,
+        "Date": "2019-04-05"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Comoros",
+        "Price": 256465.98,
+        "Date": "2015-11-01"
+    },
+    {
+        "Project_Name": "Plan Gamma",
+        "Country": "Sudan",
+        "Price": 710385.2,
+        "Date": "2015-23-11"
+    },
+    {
+        "Project_Name": "Development Foxtrot",
+        "Country": "Kenya",
+        "Price": 340821.31,
+        "Date": "2015-14-04"
+    },
+    {
+        "Project_Name": "Plan Echo",
+        "Country": "Mauritania",
+        "Price": 485660.65,
+        "Date": "2020-18-11"
+    },
+    {
+        "Project_Name": "Initiative Alpha",
+        "Country": "Guinea",
+        "Price": 584678.62,
+        "Date": "2023-14-11"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Egypt",
+        "Price": 712066.7,
+        "Date": "2016-29-09"
+    },
+    {
+        "Project_Name": "Initiative Sierra",
+        "Country": "Kenya",
+        "Price": 832148.77,
+        "Date": "2015-01-12"
+    },
+    {
+        "Project_Name": "Project Tango",
+        "Country": "Senegal",
+        "Price": 37669.84,
+        "Date": "2015-18-05"
+    },
+    {
+        "Project_Name": "Program Sierra",
+        "Country": "Mauritania",
+        "Price": 815489.68,
+        "Date": "2020-21-04"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "South Sudan",
+        "Price": 802443.07,
+        "Date": "2021-05-08"
+    },
+    {
+        "Project_Name": "Program Gamma",
+        "Country": "Tanzania",
+        "Price": 47590.87,
+        "Date": "2017-27-11"
+    },
+    {
+        "Project_Name": "Scheme Sierra",
+        "Country": "Kenya",
+        "Price": 576092.78,
+        "Date": "2021-12-05"
+    },
+    {
+        "Project_Name": "Operation Omega",
+        "Country": "Central African Republic",
+        "Price": 186193.7,
+        "Date": "2024-09-02"
+    },
+    {
+        "Project_Name": "Project Tango",
+        "Country": "Chad",
+        "Price": 68174.36,
+        "Date": "2024-03-07"
+    },
+    {
+        "Project_Name": "Task Tango",
+        "Country": "Senegal",
+        "Price": 913061.62,
+        "Date": "2020-12-05"
+    },
+    {
+        "Project_Name": "Scheme Gamma",
+        "Country": "Mauritania",
+        "Price": 80357.06,
+        "Date": "2017-09-04"
+    },
+    {
+        "Project_Name": "Initiative Bravo",
+        "Country": "Tunisia",
+        "Price": 875198.24,
+        "Date": "2023-13-01"
+    },
+    {
+        "Project_Name": "Project Tango",
+        "Country": "Zambia",
+        "Price": 657621.49,
+        "Date": "2021-21-03"
+    },
+    {
+        "Project_Name": "Project Tango",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 993290.47,
+        "Date": "2018-26-08"
+    },
+    {
+        "Project_Name": "Task Alpha",
+        "Country": "Cameroon",
+        "Price": 178702.31,
+        "Date": "2020-21-09"
+    },
+    {
+        "Project_Name": "Project Delta",
+        "Country": "Sudan",
+        "Price": 943712.47,
+        "Date": "2018-22-04"
+    },
+    {
+        "Project_Name": "Development Gamma",
+        "Country": "Tunisia",
+        "Price": 529886.89,
+        "Date": "2021-27-12"
+    },
+    {
+        "Project_Name": "Initiative Bravo",
+        "Country": "Mozambique",
+        "Price": 543418.67,
+        "Date": "2020-29-01"
+    },
+    {
+        "Project_Name": "Operation Sierra",
+        "Country": "Mauritius",
+        "Price": 647127.06,
+        "Date": "2024-30-12"
+    },
+    {
+        "Project_Name": "Initiative Gamma",
+        "Country": "Guinea",
+        "Price": 22608.29,
+        "Date": "2019-20-12"
+    },
+    {
+        "Project_Name": "Program Omega",
+        "Country": "Burundi",
+        "Price": 408483.33,
+        "Date": "2019-13-04"
+    },
+    {
+        "Project_Name": "Program Foxtrot",
+        "Country": "South Africa",
+        "Price": 320098.85,
+        "Date": "2019-08-07"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Mozambique",
+        "Price": 445769.31,
+        "Date": "2022-30-06"
+    },
+    {
+        "Project_Name": "Development Sierra",
+        "Country": "Tanzania",
+        "Price": 326403.35,
+        "Date": "2020-03-11"
+    },
+    {
+        "Project_Name": "Initiative Alpha",
+        "Country": "Tanzania",
+        "Price": 312894.7,
+        "Date": "2018-21-10"
+    },
+    {
+        "Project_Name": "Scheme Tango",
+        "Country": "Ivory Coast",
+        "Price": 51431.12,
+        "Date": "2023-01-11"
+    },
+    {
+        "Project_Name": "Development Foxtrot",
+        "Country": "Chad",
+        "Price": 765930.07,
+        "Date": "2021-14-01"
+    },
+    {
+        "Project_Name": "Program Sierra",
+        "Country": "Tanzania",
+        "Price": 247288.67,
+        "Date": "2022-15-07"
+    },
+    {
+        "Project_Name": "Program Bravo",
+        "Country": "Burkina Faso",
+        "Price": 498389.52,
+        "Date": "2016-01-08"
+    },
+    {
+        "Project_Name": "Initiative Echo",
+        "Country": "Togo",
+        "Price": 263384.62,
+        "Date": "2021-08-07"
+    },
+    {
+        "Project_Name": "Program Gamma",
+        "Country": "Tunisia",
+        "Price": 482771.14,
+        "Date": "2024-28-07"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "Djibouti",
+        "Price": 26585.09,
+        "Date": "2015-08-07"
+    },
+    {
+        "Project_Name": "Plan Bravo",
+        "Country": "Zambia",
+        "Price": 84495.01,
+        "Date": "2016-16-06"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "Congo",
+        "Price": 218683.25,
+        "Date": "2016-11-05"
+    },
+    {
+        "Project_Name": "Program Gamma",
+        "Country": "Comoros",
+        "Price": 679026.17,
+        "Date": "2015-02-01"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "South Sudan",
+        "Price": 495282.92,
+        "Date": "2017-14-01"
+    },
+    {
+        "Project_Name": "Task Delta",
+        "Country": "Rwanda",
+        "Price": 516257.12,
+        "Date": "2015-29-11"
+    },
+    {
+        "Project_Name": "Operation Tango",
+        "Country": "Guinea",
+        "Price": 383569.85,
+        "Date": "2017-08-06"
+    },
+    {
+        "Project_Name": "Program Zeta",
+        "Country": "Congo",
+        "Price": 517342.3,
+        "Date": "2022-01-08"
+    },
+    {
+        "Project_Name": "Initiative Delta",
+        "Country": "Seychelles",
+        "Price": 692040.0,
+        "Date": "2019-22-03"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Angola",
+        "Price": 220495.21,
+        "Date": "2017-05-10"
+    },
+    {
+        "Project_Name": "Project Bravo",
+        "Country": "Burkina Faso",
+        "Price": 422948.86,
+        "Date": "2023-29-01"
+    },
+    {
+        "Project_Name": "Program Zeta",
+        "Country": "Uganda",
+        "Price": 206360.4,
+        "Date": "2020-10-07"
+    },
+    {
+        "Project_Name": "Scheme Echo",
+        "Country": "Kenya",
+        "Price": 221792.87,
+        "Date": "2017-29-10"
+    },
+    {
+        "Project_Name": "Operation Sierra",
+        "Country": "Uganda",
+        "Price": 990977.77,
+        "Date": "2024-22-10"
+    },
+    {
+        "Project_Name": "Task Foxtrot",
+        "Country": "Tunisia",
+        "Price": 345688.31,
+        "Date": "2021-25-03"
+    },
+    {
+        "Project_Name": "Development Bravo",
+        "Country": "Niger",
+        "Price": 802895.06,
+        "Date": "2023-17-01"
+    },
+    {
+        "Project_Name": "Project Tango",
+        "Country": "Gabon",
+        "Price": 627042.94,
+        "Date": "2024-28-05"
+    },
+    {
+        "Project_Name": "Plan Tango",
+        "Country": "Mauritania",
+        "Price": 925210.81,
+        "Date": "2015-05-10"
+    },
+    {
+        "Project_Name": "Project Tango",
+        "Country": "Guinea-Bissau",
+        "Price": 807751.39,
+        "Date": "2020-17-10"
+    },
+    {
+        "Project_Name": "Scheme Omega",
+        "Country": "Madagascar",
+        "Price": 701711.1,
+        "Date": "2015-06-07"
+    },
+    {
+        "Project_Name": "Scheme Echo",
+        "Country": "Liberia",
+        "Price": 229981.19,
+        "Date": "2017-16-03"
+    },
+    {
+        "Project_Name": "Development Foxtrot",
+        "Country": "Somalia",
+        "Price": 994023.76,
+        "Date": "2015-18-03"
+    },
+    {
+        "Project_Name": "Development Foxtrot",
+        "Country": "South Africa",
+        "Price": 566622.02,
+        "Date": "2020-15-09"
+    },
+    {
+        "Project_Name": "Scheme Sierra",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 426294.87,
+        "Date": "2018-02-08"
+    },
+    {
+        "Project_Name": "Scheme Bravo",
+        "Country": "Burundi",
+        "Price": 534165.27,
+        "Date": "2019-05-10"
+    },
+    {
+        "Project_Name": "Scheme Echo",
+        "Country": "South Sudan",
+        "Price": 821043.27,
+        "Date": "2022-26-03"
+    },
+    {
+        "Project_Name": "Operation Sierra",
+        "Country": "Guinea-Bissau",
+        "Price": 14712.12,
+        "Date": "2015-20-02"
+    },
+    {
+        "Project_Name": "Operation Zeta",
+        "Country": "Djibouti",
+        "Price": 923944.46,
+        "Date": "2023-11-09"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Mauritania",
+        "Price": 227752.11,
+        "Date": "2019-06-01"
+    },
+    {
+        "Project_Name": "Plan Delta",
+        "Country": "Sierra Leone",
+        "Price": 554167.24,
+        "Date": "2019-20-12"
+    },
+    {
+        "Project_Name": "Scheme Foxtrot",
+        "Country": "Guinea-Bissau",
+        "Price": 669744.08,
+        "Date": "2022-06-07"
+    },
+    {
+        "Project_Name": "Program Gamma",
+        "Country": "Uganda",
+        "Price": 64269.73,
+        "Date": "2016-13-07"
+    },
+    {
+        "Project_Name": "Program Delta",
+        "Country": "Tanzania",
+        "Price": 415792.78,
+        "Date": "2021-25-06"
+    },
+    {
+        "Project_Name": "Task Tango",
+        "Country": "Gabon",
+        "Price": 108149.28,
+        "Date": "2024-05-10"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Gambia",
+        "Price": 786475.34,
+        "Date": "2023-26-07"
+    },
+    {
+        "Project_Name": "Initiative Gamma",
+        "Country": "Tanzania",
+        "Price": 319549.48,
+        "Date": "2024-07-11"
+    },
+    {
+        "Project_Name": "Development Foxtrot",
+        "Country": "Mauritania",
+        "Price": 472526.37,
+        "Date": "2020-10-02"
+    },
+    {
+        "Project_Name": "Task Foxtrot",
+        "Country": "Uganda",
+        "Price": 858204.35,
+        "Date": "2017-09-11"
+    },
+    {
+        "Project_Name": "Plan Gamma",
+        "Country": "Burundi",
+        "Price": 678701.24,
+        "Date": "2020-26-10"
+    },
+    {
+        "Project_Name": "Development Sierra",
+        "Country": "Nigeria",
+        "Price": 979912.1,
+        "Date": "2022-14-01"
+    },
+    {
+        "Project_Name": "Development Omega",
+        "Country": "Sudan",
+        "Price": 381424.08,
+        "Date": "2020-23-06"
+    },
+    {
+        "Project_Name": "Plan Echo",
+        "Country": "Burundi",
+        "Price": 780413.63,
+        "Date": "2018-07-10"
+    },
+    {
+        "Project_Name": "Initiative Delta",
+        "Country": "Burkina Faso",
+        "Price": 761698.36,
+        "Date": "2020-13-10"
+    },
+    {
+        "Project_Name": "Scheme Gamma",
+        "Country": "Cabo Verde",
+        "Price": 416052.38,
+        "Date": "2021-17-05"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Zambia",
+        "Price": 350265.03,
+        "Date": "2024-16-12"
+    },
+    {
+        "Project_Name": "Project Gamma",
+        "Country": "Guinea-Bissau",
+        "Price": 764773.55,
+        "Date": "2017-27-01"
+    },
+    {
+        "Project_Name": "Development Sierra",
+        "Country": "Sudan",
+        "Price": 38631.76,
+        "Date": "2020-11-11"
+    },
+    {
+        "Project_Name": "Operation Tango",
+        "Country": "Ethiopia",
+        "Price": 399808.22,
+        "Date": "2020-31-08"
+    },
+    {
+        "Project_Name": "Plan Zeta",
+        "Country": "Somalia",
+        "Price": 844059.98,
+        "Date": "2020-19-06"
+    },
+    {
+        "Project_Name": "Task Zeta",
+        "Country": "Madagascar",
+        "Price": 478672.79,
+        "Date": "2022-23-11"
+    },
+    {
+        "Project_Name": "Plan Gamma",
+        "Country": "Ivory Coast",
+        "Price": 97900.91,
+        "Date": "2018-28-11"
+    },
+    {
+        "Project_Name": "Plan Bravo",
+        "Country": "Niger",
+        "Price": 757035.69,
+        "Date": "2015-23-09"
+    },
+    {
+        "Project_Name": "Development Echo",
+        "Country": "Benin",
+        "Price": 903432.91,
+        "Date": "2024-08-12"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Togo",
+        "Price": 786614.13,
+        "Date": "2020-12-12"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Rwanda",
+        "Price": 520058.96,
+        "Date": "2022-18-09"
+    },
+    {
+        "Project_Name": "Task Alpha",
+        "Country": "Egypt",
+        "Price": 133056.69,
+        "Date": "2024-26-08"
+    },
+    {
+        "Project_Name": "Scheme Foxtrot",
+        "Country": "Eritrea",
+        "Price": 367065.13,
+        "Date": "2017-26-01"
+    },
+    {
+        "Project_Name": "Operation Tango",
+        "Country": "Mauritius",
+        "Price": 623257.01,
+        "Date": "2016-10-07"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "South Africa",
+        "Price": 846283.89,
+        "Date": "2024-24-11"
+    },
+    {
+        "Project_Name": "Task Bravo",
+        "Country": "Senegal",
+        "Price": 366576.16,
+        "Date": "2023-05-02"
+    },
+    {
+        "Project_Name": "Development Bravo",
+        "Country": "Congo",
+        "Price": 235207.0,
+        "Date": "2015-01-01"
+    },
+    {
+        "Project_Name": "Operation Alpha",
+        "Country": "Zambia",
+        "Price": 492296.85,
+        "Date": "2017-12-02"
+    },
+    {
+        "Project_Name": "Project Gamma",
+        "Country": "Mauritania",
+        "Price": 466151.73,
+        "Date": "2017-17-07"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Tunisia",
+        "Price": 374986.1,
+        "Date": "2017-10-10"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "Egypt",
+        "Price": 543836.87,
+        "Date": "2017-18-01"
+    },
+    {
+        "Project_Name": "Program Foxtrot",
+        "Country": "Mozambique",
+        "Price": 719779.71,
+        "Date": "2023-07-08"
+    },
+    {
+        "Project_Name": "Development Delta",
+        "Country": "Niger",
+        "Price": 903583.71,
+        "Date": "2024-05-11"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Ethiopia",
+        "Price": 820794.68,
+        "Date": "2022-08-09"
+    },
+    {
+        "Project_Name": "Initiative Zeta",
+        "Country": "Niger",
+        "Price": 135760.71,
+        "Date": "2017-13-12"
+    },
+    {
+        "Project_Name": "Initiative Omega",
+        "Country": "Togo",
+        "Price": 855852.1,
+        "Date": "2019-01-09"
+    },
+    {
+        "Project_Name": "Scheme Echo",
+        "Country": "Senegal",
+        "Price": 719270.84,
+        "Date": "2015-10-03"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "Mauritania",
+        "Price": 813915.68,
+        "Date": "2017-26-11"
+    },
+    {
+        "Project_Name": "Project Foxtrot",
+        "Country": "Zimbabwe",
+        "Price": 73322.45,
+        "Date": "2018-01-11"
+    },
+    {
+        "Project_Name": "Development Bravo",
+        "Country": "Liberia",
+        "Price": 543944.48,
+        "Date": "2021-08-08"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Guinea",
+        "Price": 945812.22,
+        "Date": "2022-21-05"
+    },
+    {
+        "Project_Name": "Project Omega",
+        "Country": "South Africa",
+        "Price": 591750.19,
+        "Date": "2019-08-04"
+    },
+    {
+        "Project_Name": "Project Foxtrot",
+        "Country": "Namibia",
+        "Price": 153057.07,
+        "Date": "2024-24-11"
+    },
+    {
+        "Project_Name": "Plan Gamma",
+        "Country": "Mauritania",
+        "Price": 159295.3,
+        "Date": "2023-17-06"
+    },
+    {
+        "Project_Name": "Program Echo",
+        "Country": "Lesotho",
+        "Price": 572107.26,
+        "Date": "2017-23-05"
+    },
+    {
+        "Project_Name": "Program Sierra",
+        "Country": "Angola",
+        "Price": 17319.8,
+        "Date": "2021-13-03"
+    },
+    {
+        "Project_Name": "Scheme Sierra",
+        "Country": "Burundi",
+        "Price": 39340.4,
+        "Date": "2023-08-08"
+    },
+    {
+        "Project_Name": "Development Alpha",
+        "Country": "Malawi",
+        "Price": 996922.55,
+        "Date": "2019-12-12"
+    },
+    {
+        "Project_Name": "Project Bravo",
+        "Country": "Ivory Coast",
+        "Price": 119667.57,
+        "Date": "2019-13-09"
+    },
+    {
+        "Project_Name": "Program Bravo",
+        "Country": "Libya",
+        "Price": 219343.1,
+        "Date": "2015-13-07"
+    },
+    {
+        "Project_Name": "Operation Tango",
+        "Country": "Lesotho",
+        "Price": 327314.51,
+        "Date": "2022-02-02"
+    },
+    {
+        "Project_Name": "Development Foxtrot",
+        "Country": "Angola",
+        "Price": 423545.03,
+        "Date": "2019-18-10"
+    },
+    {
+        "Project_Name": "Task Zeta",
+        "Country": "Ghana",
+        "Price": 344542.98,
+        "Date": "2022-18-03"
+    },
+    {
+        "Project_Name": "Development Foxtrot",
+        "Country": "South Africa",
+        "Price": 123575.22,
+        "Date": "2024-29-03"
+    },
+    {
+        "Project_Name": "Plan Bravo",
+        "Country": "Burundi",
+        "Price": 859831.04,
+        "Date": "2021-26-06"
+    },
+    {
+        "Project_Name": "Initiative Delta",
+        "Country": "Nigeria",
+        "Price": 531137.78,
+        "Date": "2019-03-09"
+    },
+    {
+        "Project_Name": "Program Foxtrot",
+        "Country": "Liberia",
+        "Price": 266868.31,
+        "Date": "2015-05-05"
+    },
+    {
+        "Project_Name": "Initiative Sierra",
+        "Country": "Algeria",
+        "Price": 768865.03,
+        "Date": "2019-11-01"
+    },
+    {
+        "Project_Name": "Scheme Delta",
+        "Country": "Cameroon",
+        "Price": 358373.58,
+        "Date": "2021-19-07"
+    },
+    {
+        "Project_Name": "Development Gamma",
+        "Country": "Algeria",
+        "Price": 446538.53,
+        "Date": "2018-28-10"
+    },
+    {
+        "Project_Name": "Program Echo",
+        "Country": "Ghana",
+        "Price": 787297.25,
+        "Date": "2020-10-01"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "Kenya",
+        "Price": 675691.74,
+        "Date": "2018-15-05"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Niger",
+        "Price": 992112.9,
+        "Date": "2024-18-04"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Burkina Faso",
+        "Price": 75048.19,
+        "Date": "2015-19-10"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "Tanzania",
+        "Price": 704492.05,
+        "Date": "2023-24-11"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "Gabon",
+        "Price": 122013.03,
+        "Date": "2019-21-05"
+    },
+    {
+        "Project_Name": "Task Gamma",
+        "Country": "Gabon",
+        "Price": 131139.89,
+        "Date": "2021-30-10"
+    },
+    {
+        "Project_Name": "Initiative Delta",
+        "Country": "Mozambique",
+        "Price": 100523.36,
+        "Date": "2017-10-10"
+    },
+    {
+        "Project_Name": "Initiative Foxtrot",
+        "Country": "Guinea-Bissau",
+        "Price": 359067.99,
+        "Date": "2020-11-09"
+    },
+    {
+        "Project_Name": "Initiative Echo",
+        "Country": "Rwanda",
+        "Price": 485019.78,
+        "Date": "2024-04-08"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Ivory Coast",
+        "Price": 677619.21,
+        "Date": "2024-04-08"
+    },
+    {
+        "Project_Name": "Task Tango",
+        "Country": "Nigeria",
+        "Price": 12627.32,
+        "Date": "2017-28-09"
+    },
+    {
+        "Project_Name": "Task Bravo",
+        "Country": "Senegal",
+        "Price": 791510.2,
+        "Date": "2019-20-03"
+    },
+    {
+        "Project_Name": "Initiative Echo",
+        "Country": "Sao Tome and Principe",
+        "Price": 459667.13,
+        "Date": "2023-01-07"
+    },
+    {
+        "Project_Name": "Scheme Sierra",
+        "Country": "Comoros",
+        "Price": 631478.32,
+        "Date": "2022-30-06"
+    },
+    {
+        "Project_Name": "Program Omega",
+        "Country": "Cameroon",
+        "Price": 416375.62,
+        "Date": "2024-07-07"
+    },
+    {
+        "Project_Name": "Task Zeta",
+        "Country": "Djibouti",
+        "Price": 640583.59,
+        "Date": "2024-08-07"
+    },
+    {
+        "Project_Name": "Development Sierra",
+        "Country": "Sierra Leone",
+        "Price": 666000.3,
+        "Date": "2019-18-04"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Egypt",
+        "Price": 755723.05,
+        "Date": "2023-01-11"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Chad",
+        "Price": 186373.64,
+        "Date": "2019-25-02"
+    },
+    {
+        "Project_Name": "Task Tango",
+        "Country": "Botswana",
+        "Price": 39457.69,
+        "Date": "2017-27-08"
+    },
+    {
+        "Project_Name": "Plan Bravo",
+        "Country": "Congo",
+        "Price": 35058.29,
+        "Date": "2016-26-11"
+    },
+    {
+        "Project_Name": "Initiative Echo",
+        "Country": "Ghana",
+        "Price": 575521.88,
+        "Date": "2020-23-12"
+    },
+    {
+        "Project_Name": "Scheme Tango",
+        "Country": "Sao Tome and Principe",
+        "Price": 133691.46,
+        "Date": "2024-18-01"
+    },
+    {
+        "Project_Name": "Development Alpha",
+        "Country": "Chad",
+        "Price": 604407.26,
+        "Date": "2022-24-05"
+    },
+    {
+        "Project_Name": "Plan Zeta",
+        "Country": "Liberia",
+        "Price": 475989.6,
+        "Date": "2016-01-02"
+    },
+    {
+        "Project_Name": "Plan Echo",
+        "Country": "Uganda",
+        "Price": 750125.29,
+        "Date": "2019-11-04"
+    },
+    {
+        "Project_Name": "Operation Bravo",
+        "Country": "South Africa",
+        "Price": 60410.2,
+        "Date": "2018-01-09"
+    },
+    {
+        "Project_Name": "Plan Sierra",
+        "Country": "Equatorial Guinea",
+        "Price": 616631.04,
+        "Date": "2022-25-06"
+    },
+    {
+        "Project_Name": "Scheme Omega",
+        "Country": "Rwanda",
+        "Price": 603113.84,
+        "Date": "2023-23-02"
+    },
+    {
+        "Project_Name": "Program Zeta",
+        "Country": "Egypt",
+        "Price": 454089.37,
+        "Date": "2023-31-03"
+    },
+    {
+        "Project_Name": "Scheme Bravo",
+        "Country": "Morocco",
+        "Price": 849893.79,
+        "Date": "2024-08-07"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Liberia",
+        "Price": 528561.57,
+        "Date": "2019-08-04"
+    },
+    {
+        "Project_Name": "Scheme Tango",
+        "Country": "Gabon",
+        "Price": 366312.82,
+        "Date": "2018-15-02"
+    },
+    {
+        "Project_Name": "Operation Omega",
+        "Country": "Kenya",
+        "Price": 57894.34,
+        "Date": "2021-30-12"
+    },
+    {
+        "Project_Name": "Initiative Zeta",
+        "Country": "Botswana",
+        "Price": 971162.03,
+        "Date": "2021-30-10"
+    },
+    {
+        "Project_Name": "Project Gamma",
+        "Country": "South Africa",
+        "Price": 578959.09,
+        "Date": "2016-15-03"
+    },
+    {
+        "Project_Name": "Plan Echo",
+        "Country": "South Africa",
+        "Price": 594725.49,
+        "Date": "2022-28-01"
+    },
+    {
+        "Project_Name": "Program Foxtrot",
+        "Country": "South Africa",
+        "Price": 908951.29,
+        "Date": "2024-31-08"
+    },
+    {
+        "Project_Name": "Task Delta",
+        "Country": "Mauritius",
+        "Price": 390208.93,
+        "Date": "2018-21-10"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Burkina Faso",
+        "Price": 999027.84,
+        "Date": "2023-26-10"
+    },
+    {
+        "Project_Name": "Task Foxtrot",
+        "Country": "Sao Tome and Principe",
+        "Price": 39376.54,
+        "Date": "2022-08-04"
+    },
+    {
+        "Project_Name": "Plan Foxtrot",
+        "Country": "Equatorial Guinea",
+        "Price": 402232.41,
+        "Date": "2020-19-07"
+    },
+    {
+        "Project_Name": "Scheme Zeta",
+        "Country": "Seychelles",
+        "Price": 94601.53,
+        "Date": "2024-08-07"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "Mauritania",
+        "Price": 581447.95,
+        "Date": "2017-18-03"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Comoros",
+        "Price": 951093.24,
+        "Date": "2021-10-07"
+    },
+    {
+        "Project_Name": "Development Delta",
+        "Country": "Central African Republic",
+        "Price": 384436.51,
+        "Date": "2021-28-04"
+    },
+    {
+        "Project_Name": "Project Omega",
+        "Country": "Burundi",
+        "Price": 175799.68,
+        "Date": "2022-03-12"
+    },
+    {
+        "Project_Name": "Operation Bravo",
+        "Country": "Morocco",
+        "Price": 859943.9,
+        "Date": "2024-25-06"
+    },
+    {
+        "Project_Name": "Task Zeta",
+        "Country": "Malawi",
+        "Price": 307086.25,
+        "Date": "2022-23-04"
+    },
+    {
+        "Project_Name": "Development Echo",
+        "Country": "Ethiopia",
+        "Price": 272725.27,
+        "Date": "2024-09-03"
+    },
+    {
+        "Project_Name": "Task Foxtrot",
+        "Country": "Guinea-Bissau",
+        "Price": 200135.01,
+        "Date": "2024-06-09"
+    },
+    {
+        "Project_Name": "Program Foxtrot",
+        "Country": "Angola",
+        "Price": 124586.62,
+        "Date": "2022-18-12"
+    },
+    {
+        "Project_Name": "Operation Zeta",
+        "Country": "Mauritania",
+        "Price": 391896.06,
+        "Date": "2024-06-04"
+    },
+    {
+        "Project_Name": "Development Alpha",
+        "Country": "Botswana",
+        "Price": 179100.04,
+        "Date": "2016-03-04"
+    },
+    {
+        "Project_Name": "Operation Alpha",
+        "Country": "Tanzania",
+        "Price": 86353.76,
+        "Date": "2018-14-01"
+    },
+    {
+        "Project_Name": "Task Tango",
+        "Country": "Benin",
+        "Price": 613916.91,
+        "Date": "2015-28-08"
+    },
+    {
+        "Project_Name": "Project Omega",
+        "Country": "Egypt",
+        "Price": 220013.09,
+        "Date": "2018-06-01"
+    },
+    {
+        "Project_Name": "Plan Bravo",
+        "Country": "Eswatini",
+        "Price": 721646.11,
+        "Date": "2023-29-05"
+    },
+    {
+        "Project_Name": "Plan Omega",
+        "Country": "Botswana",
+        "Price": 662083.91,
+        "Date": "2022-23-11"
+    },
+    {
+        "Project_Name": "Program Alpha",
+        "Country": "Cameroon",
+        "Price": 488969.01,
+        "Date": "2018-18-02"
+    },
+    {
+        "Project_Name": "Project Gamma",
+        "Country": "Guinea-Bissau",
+        "Price": 13406.67,
+        "Date": "2018-31-10"
+    },
+    {
+        "Project_Name": "Project Gamma",
+        "Country": "Ghana",
+        "Price": 683696.08,
+        "Date": "2016-13-05"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "Lesotho",
+        "Price": 532008.11,
+        "Date": "2020-27-05"
+    },
+    {
+        "Project_Name": "Initiative Sierra",
+        "Country": "Ivory Coast",
+        "Price": 649286.95,
+        "Date": "2019-21-08"
+    },
+    {
+        "Project_Name": "Task Bravo",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 896328.38,
+        "Date": "2024-19-04"
+    },
+    {
+        "Project_Name": "Operation Alpha",
+        "Country": "Morocco",
+        "Price": 722561.0,
+        "Date": "2020-14-09"
+    },
+    {
+        "Project_Name": "Development Sierra",
+        "Country": "Sierra Leone",
+        "Price": 478291.05,
+        "Date": "2023-21-09"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 596856.15,
+        "Date": "2024-01-05"
+    },
+    {
+        "Project_Name": "Scheme Tango",
+        "Country": "Togo",
+        "Price": 624812.9,
+        "Date": "2017-06-08"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Tunisia",
+        "Price": 363830.94,
+        "Date": "2018-11-02"
+    },
+    {
+        "Project_Name": "Program Bravo",
+        "Country": "Equatorial Guinea",
+        "Price": 155600.53,
+        "Date": "2017-12-01"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "South Sudan",
+        "Price": 524025.16,
+        "Date": "2022-27-04"
+    },
+    {
+        "Project_Name": "Initiative Sierra",
+        "Country": "Tanzania",
+        "Price": 511228.27,
+        "Date": "2018-20-09"
+    },
+    {
+        "Project_Name": "Task Bravo",
+        "Country": "Lesotho",
+        "Price": 413744.65,
+        "Date": "2021-10-09"
+    },
+    {
+        "Project_Name": "Program Delta",
+        "Country": "Niger",
+        "Price": 189886.98,
+        "Date": "2022-08-07"
+    },
+    {
+        "Project_Name": "Task Delta",
+        "Country": "Lesotho",
+        "Price": 787596.59,
+        "Date": "2019-23-07"
+    },
+    {
+        "Project_Name": "Task Gamma",
+        "Country": "South Sudan",
+        "Price": 926229.66,
+        "Date": "2015-28-04"
+    },
+    {
+        "Project_Name": "Program Tango",
+        "Country": "Sudan",
+        "Price": 39465.1,
+        "Date": "2024-29-01"
+    },
+    {
+        "Project_Name": "Plan Gamma",
+        "Country": "Kenya",
+        "Price": 561989.29,
+        "Date": "2021-09-07"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Ivory Coast",
+        "Price": 883209.45,
+        "Date": "2023-27-04"
+    },
+    {
+        "Project_Name": "Scheme Sierra",
+        "Country": "Senegal",
+        "Price": 993636.4,
+        "Date": "2016-03-10"
+    },
+    {
+        "Project_Name": "Program Omega",
+        "Country": "Ivory Coast",
+        "Price": 243346.71,
+        "Date": "2021-22-09"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Morocco",
+        "Price": 899714.41,
+        "Date": "2015-31-10"
+    },
+    {
+        "Project_Name": "Operation Zeta",
+        "Country": "Burkina Faso",
+        "Price": 111223.43,
+        "Date": "2021-09-08"
+    },
+    {
+        "Project_Name": "Project Foxtrot",
+        "Country": "Egypt",
+        "Price": 197591.19,
+        "Date": "2020-24-02"
+    },
+    {
+        "Project_Name": "Scheme Delta",
+        "Country": "Egypt",
+        "Price": 927453.12,
+        "Date": "2021-22-12"
+    },
+    {
+        "Project_Name": "Plan Gamma",
+        "Country": "Rwanda",
+        "Price": 159564.12,
+        "Date": "2018-02-06"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "Egypt",
+        "Price": 757960.38,
+        "Date": "2022-11-04"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Ivory Coast",
+        "Price": 660754.25,
+        "Date": "2021-13-01"
+    },
+    {
+        "Project_Name": "Plan Echo",
+        "Country": "Mozambique",
+        "Price": 701568.93,
+        "Date": "2019-17-01"
+    },
+    {
+        "Project_Name": "Plan Foxtrot",
+        "Country": "Ethiopia",
+        "Price": 987247.72,
+        "Date": "2016-16-08"
+    },
+    {
+        "Project_Name": "Plan Tango",
+        "Country": "Guinea-Bissau",
+        "Price": 910157.0,
+        "Date": "2021-13-07"
+    },
+    {
+        "Project_Name": "Plan Omega",
+        "Country": "Angola",
+        "Price": 250746.95,
+        "Date": "2015-14-07"
+    },
+    {
+        "Project_Name": "Project Sierra",
+        "Country": "Benin",
+        "Price": 289914.74,
+        "Date": "2018-31-08"
+    },
+    {
+        "Project_Name": "Operation Sierra",
+        "Country": "Niger",
+        "Price": 597161.72,
+        "Date": "2018-14-12"
+    },
+    {
+        "Project_Name": "Development Delta",
+        "Country": "Gambia",
+        "Price": 920720.2,
+        "Date": "2021-20-08"
+    },
+    {
+        "Project_Name": "Operation Zeta",
+        "Country": "Libya",
+        "Price": 612771.49,
+        "Date": "2020-12-10"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Central African Republic",
+        "Price": 484142.87,
+        "Date": "2019-15-01"
+    },
+    {
+        "Project_Name": "Plan Omega",
+        "Country": "Congo",
+        "Price": 327596.37,
+        "Date": "2021-30-04"
+    },
+    {
+        "Project_Name": "Initiative Bravo",
+        "Country": "Mauritius",
+        "Price": 66557.58,
+        "Date": "2017-09-03"
+    },
+    {
+        "Project_Name": "Project Delta",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 423310.16,
+        "Date": "2023-16-08"
+    },
+    {
+        "Project_Name": "Task Tango",
+        "Country": "Seychelles",
+        "Price": 488172.25,
+        "Date": "2023-29-03"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "Ivory Coast",
+        "Price": 750791.35,
+        "Date": "2017-28-01"
+    },
+    {
+        "Project_Name": "Task Delta",
+        "Country": "South Africa",
+        "Price": 638290.78,
+        "Date": "2016-24-03"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Equatorial Guinea",
+        "Price": 523466.62,
+        "Date": "2021-12-07"
+    },
+    {
+        "Project_Name": "Scheme Bravo",
+        "Country": "Namibia",
+        "Price": 480191.22,
+        "Date": "2016-24-03"
+    },
+    {
+        "Project_Name": "Scheme Echo",
+        "Country": "Benin",
+        "Price": 768397.26,
+        "Date": "2021-14-03"
+    },
+    {
+        "Project_Name": "Project Delta",
+        "Country": "Burkina Faso",
+        "Price": 461968.61,
+        "Date": "2021-21-09"
+    },
+    {
+        "Project_Name": "Initiative Bravo",
+        "Country": "Mauritania",
+        "Price": 667262.17,
+        "Date": "2024-04-09"
+    },
+    {
+        "Project_Name": "Scheme Foxtrot",
+        "Country": "Angola",
+        "Price": 58592.66,
+        "Date": "2021-24-01"
+    },
+    {
+        "Project_Name": "Initiative Foxtrot",
+        "Country": "Burkina Faso",
+        "Price": 553986.27,
+        "Date": "2017-12-09"
+    },
+    {
+        "Project_Name": "Plan Gamma",
+        "Country": "Kenya",
+        "Price": 314491.63,
+        "Date": "2015-16-01"
+    },
+    {
+        "Project_Name": "Plan Omega",
+        "Country": "Tanzania",
+        "Price": 898761.6,
+        "Date": "2023-26-03"
+    },
+    {
+        "Project_Name": "Scheme Omega",
+        "Country": "Libya",
+        "Price": 197184.13,
+        "Date": "2020-05-12"
+    },
+    {
+        "Project_Name": "Scheme Omega",
+        "Country": "Guinea",
+        "Price": 544767.87,
+        "Date": "2018-03-09"
+    },
+    {
+        "Project_Name": "Operation Foxtrot",
+        "Country": "Ivory Coast",
+        "Price": 752439.05,
+        "Date": "2020-25-08"
+    },
+    {
+        "Project_Name": "Project Foxtrot",
+        "Country": "Eritrea",
+        "Price": 281958.39,
+        "Date": "2016-22-12"
+    },
+    {
+        "Project_Name": "Scheme Alpha",
+        "Country": "Burundi",
+        "Price": 714701.25,
+        "Date": "2017-01-04"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 195643.07,
+        "Date": "2016-05-07"
+    },
+    {
+        "Project_Name": "Scheme Echo",
+        "Country": "Mozambique",
+        "Price": 545347.05,
+        "Date": "2020-01-03"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "Rwanda",
+        "Price": 962967.28,
+        "Date": "2023-09-04"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Morocco",
+        "Price": 624282.56,
+        "Date": "2023-08-02"
+    },
+    {
+        "Project_Name": "Project Zeta",
+        "Country": "Kenya",
+        "Price": 260672.56,
+        "Date": "2015-13-10"
+    },
+    {
+        "Project_Name": "Project Sierra",
+        "Country": "Chad",
+        "Price": 138840.98,
+        "Date": "2020-26-02"
+    },
+    {
+        "Project_Name": "Task Bravo",
+        "Country": "Senegal",
+        "Price": 765165.85,
+        "Date": "2022-14-10"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Guinea-Bissau",
+        "Price": 114482.29,
+        "Date": "2024-25-11"
+    },
+    {
+        "Project_Name": "Scheme Delta",
+        "Country": "Eritrea",
+        "Price": 539723.14,
+        "Date": "2024-09-12"
+    },
+    {
+        "Project_Name": "Development Alpha",
+        "Country": "Liberia",
+        "Price": 730906.16,
+        "Date": "2019-20-12"
+    },
+    {
+        "Project_Name": "Operation Zeta",
+        "Country": "Zimbabwe",
+        "Price": 231612.34,
+        "Date": "2015-15-08"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Eritrea",
+        "Price": 932092.84,
+        "Date": "2018-10-04"
+    },
+    {
+        "Project_Name": "Scheme Bravo",
+        "Country": "Tanzania",
+        "Price": 26371.32,
+        "Date": "2017-04-12"
+    },
+    {
+        "Project_Name": "Task Zeta",
+        "Country": "Equatorial Guinea",
+        "Price": 31717.8,
+        "Date": "2015-23-04"
+    },
+    {
+        "Project_Name": "Scheme Omega",
+        "Country": "Guinea-Bissau",
+        "Price": 589835.91,
+        "Date": "2015-22-05"
+    },
+    {
+        "Project_Name": "Program Omega",
+        "Country": "Chad",
+        "Price": 529307.59,
+        "Date": "2024-28-11"
+    },
+    {
+        "Project_Name": "Development Sierra",
+        "Country": "Gambia",
+        "Price": 715713.58,
+        "Date": "2018-13-04"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Liberia",
+        "Price": 321324.63,
+        "Date": "2021-13-12"
+    },
+    {
+        "Project_Name": "Program Omega",
+        "Country": "Sao Tome and Principe",
+        "Price": 681804.16,
+        "Date": "2019-03-02"
+    },
+    {
+        "Project_Name": "Operation Foxtrot",
+        "Country": "Malawi",
+        "Price": 105815.25,
+        "Date": "2016-07-12"
+    },
+    {
+        "Project_Name": "Development Omega",
+        "Country": "Seychelles",
+        "Price": 58227.02,
+        "Date": "2015-29-08"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Comoros",
+        "Price": 486099.3,
+        "Date": "2024-15-05"
+    },
+    {
+        "Project_Name": "Program Tango",
+        "Country": "Rwanda",
+        "Price": 841803.83,
+        "Date": "2021-13-05"
+    },
+    {
+        "Project_Name": "Project Omega",
+        "Country": "South Africa",
+        "Price": 462552.2,
+        "Date": "2020-09-10"
+    },
+    {
+        "Project_Name": "Program Echo",
+        "Country": "Zimbabwe",
+        "Price": 851017.44,
+        "Date": "2019-25-09"
+    },
+    {
+        "Project_Name": "Development Bravo",
+        "Country": "Tanzania",
+        "Price": 481007.7,
+        "Date": "2018-13-11"
+    },
+    {
+        "Project_Name": "Development Tango",
+        "Country": "Tunisia",
+        "Price": 65976.98,
+        "Date": "2024-19-12"
+    },
+    {
+        "Project_Name": "Program Foxtrot",
+        "Country": "Algeria",
+        "Price": 81792.87,
+        "Date": "2023-02-03"
+    },
+    {
+        "Project_Name": "Program Delta",
+        "Country": "Morocco",
+        "Price": 185849.57,
+        "Date": "2018-12-03"
+    },
+    {
+        "Project_Name": "Development Echo",
+        "Country": "Kenya",
+        "Price": 33096.13,
+        "Date": "2024-16-12"
+    },
+    {
+        "Project_Name": "Program Alpha",
+        "Country": "Mozambique",
+        "Price": 204921.83,
+        "Date": "2024-21-03"
+    },
+    {
+        "Project_Name": "Operation Bravo",
+        "Country": "Rwanda",
+        "Price": 653617.65,
+        "Date": "2015-19-10"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 345991.07,
+        "Date": "2017-16-12"
+    },
+    {
+        "Project_Name": "Development Foxtrot",
+        "Country": "Kenya",
+        "Price": 373695.35,
+        "Date": "2021-08-08"
+    },
+    {
+        "Project_Name": "Task Gamma",
+        "Country": "Lesotho",
+        "Price": 641623.47,
+        "Date": "2017-30-08"
+    },
+    {
+        "Project_Name": "Program Delta",
+        "Country": "Botswana",
+        "Price": 613113.73,
+        "Date": "2017-15-06"
+    },
+    {
+        "Project_Name": "Operation Alpha",
+        "Country": "Morocco",
+        "Price": 684528.83,
+        "Date": "2016-14-06"
+    },
+    {
+        "Project_Name": "Development Alpha",
+        "Country": "Malawi",
+        "Price": 325590.18,
+        "Date": "2024-07-04"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Botswana",
+        "Price": 175381.67,
+        "Date": "2020-24-04"
+    },
+    {
+        "Project_Name": "Scheme Tango",
+        "Country": "Guinea",
+        "Price": 62067.34,
+        "Date": "2020-17-05"
+    },
+    {
+        "Project_Name": "Program Echo",
+        "Country": "Cameroon",
+        "Price": 367085.97,
+        "Date": "2021-01-09"
+    },
+    {
+        "Project_Name": "Project Delta",
+        "Country": "South Sudan",
+        "Price": 601479.98,
+        "Date": "2017-25-12"
+    },
+    {
+        "Project_Name": "Scheme Zeta",
+        "Country": "Kenya",
+        "Price": 862594.84,
+        "Date": "2015-07-02"
+    },
+    {
+        "Project_Name": "Operation Bravo",
+        "Country": "Liberia",
+        "Price": 716042.98,
+        "Date": "2015-07-09"
+    },
+    {
+        "Project_Name": "Scheme Sierra",
+        "Country": "Algeria",
+        "Price": 417095.27,
+        "Date": "2016-04-06"
+    },
+    {
+        "Project_Name": "Scheme Sierra",
+        "Country": "Zimbabwe",
+        "Price": 126900.31,
+        "Date": "2022-21-03"
+    },
+    {
+        "Project_Name": "Task Zeta",
+        "Country": "Tunisia",
+        "Price": 552380.39,
+        "Date": "2024-27-11"
+    },
+    {
+        "Project_Name": "Scheme Gamma",
+        "Country": "Equatorial Guinea",
+        "Price": 513865.42,
+        "Date": "2017-20-07"
+    },
+    {
+        "Project_Name": "Operation Zeta",
+        "Country": "Botswana",
+        "Price": 857879.11,
+        "Date": "2022-14-11"
+    },
+    {
+        "Project_Name": "Program Omega",
+        "Country": "Angola",
+        "Price": 271618.83,
+        "Date": "2019-02-08"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "Libya",
+        "Price": 447279.56,
+        "Date": "2024-15-06"
+    },
+    {
+        "Project_Name": "Initiative Zeta",
+        "Country": "Mali",
+        "Price": 289786.51,
+        "Date": "2019-01-06"
+    },
+    {
+        "Project_Name": "Program Tango",
+        "Country": "South Sudan",
+        "Price": 520058.79,
+        "Date": "2016-26-06"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "Cabo Verde",
+        "Price": 567937.4,
+        "Date": "2024-03-12"
+    },
+    {
+        "Project_Name": "Program Echo",
+        "Country": "Cabo Verde",
+        "Price": 655533.88,
+        "Date": "2018-28-06"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Seychelles",
+        "Price": 182683.89,
+        "Date": "2015-03-05"
+    },
+    {
+        "Project_Name": "Program Bravo",
+        "Country": "Congo",
+        "Price": 524541.18,
+        "Date": "2019-02-04"
+    },
+    {
+        "Project_Name": "Development Foxtrot",
+        "Country": "Zambia",
+        "Price": 698556.22,
+        "Date": "2017-12-03"
+    },
+    {
+        "Project_Name": "Scheme Delta",
+        "Country": "Somalia",
+        "Price": 732990.24,
+        "Date": "2019-02-12"
+    },
+    {
+        "Project_Name": "Plan Omega",
+        "Country": "Niger",
+        "Price": 550587.81,
+        "Date": "2022-27-03"
+    },
+    {
+        "Project_Name": "Plan Tango",
+        "Country": "Algeria",
+        "Price": 382372.64,
+        "Date": "2020-13-02"
+    },
+    {
+        "Project_Name": "Program Alpha",
+        "Country": "Ethiopia",
+        "Price": 735209.8,
+        "Date": "2018-22-08"
+    },
+    {
+        "Project_Name": "Development Echo",
+        "Country": "Nigeria",
+        "Price": 821729.46,
+        "Date": "2019-18-01"
+    },
+    {
+        "Project_Name": "Program Omega",
+        "Country": "Zimbabwe",
+        "Price": 874121.55,
+        "Date": "2023-18-05"
+    },
+    {
+        "Project_Name": "Initiative Alpha",
+        "Country": "Malawi",
+        "Price": 878125.2,
+        "Date": "2018-17-08"
+    },
+    {
+        "Project_Name": "Scheme Alpha",
+        "Country": "Gabon",
+        "Price": 297339.85,
+        "Date": "2024-05-03"
+    },
+    {
+        "Project_Name": "Development Alpha",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 183916.09,
+        "Date": "2017-28-03"
+    },
+    {
+        "Project_Name": "Scheme Bravo",
+        "Country": "Lesotho",
+        "Price": 824707.51,
+        "Date": "2017-17-01"
+    },
+    {
+        "Project_Name": "Operation Gamma",
+        "Country": "Seychelles",
+        "Price": 392178.22,
+        "Date": "2016-27-10"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "Central African Republic",
+        "Price": 924293.19,
+        "Date": "2024-26-10"
+    },
+    {
+        "Project_Name": "Program Omega",
+        "Country": "Malawi",
+        "Price": 303677.98,
+        "Date": "2020-22-04"
+    },
+    {
+        "Project_Name": "Program Delta",
+        "Country": "Sudan",
+        "Price": 859690.9,
+        "Date": "2023-01-02"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "Malawi",
+        "Price": 339152.73,
+        "Date": "2020-08-08"
+    },
+    {
+        "Project_Name": "Project Foxtrot",
+        "Country": "Eritrea",
+        "Price": 419579.32,
+        "Date": "2021-12-12"
+    },
+    {
+        "Project_Name": "Scheme Sierra",
+        "Country": "Djibouti",
+        "Price": 396233.64,
+        "Date": "2016-01-07"
+    },
+    {
+        "Project_Name": "Scheme Alpha",
+        "Country": "Nigeria",
+        "Price": 195197.58,
+        "Date": "2019-26-11"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Egypt",
+        "Price": 36826.84,
+        "Date": "2015-03-12"
+    },
+    {
+        "Project_Name": "Task Zeta",
+        "Country": "Tunisia",
+        "Price": 376297.84,
+        "Date": "2016-06-01"
+    },
+    {
+        "Project_Name": "Initiative Alpha",
+        "Country": "Morocco",
+        "Price": 669356.22,
+        "Date": "2016-22-03"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Gabon",
+        "Price": 541075.71,
+        "Date": "2024-04-02"
+    },
+    {
+        "Project_Name": "Task Foxtrot",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 223931.74,
+        "Date": "2020-08-10"
+    },
+    {
+        "Project_Name": "Development Tango",
+        "Country": "Somalia",
+        "Price": 164839.21,
+        "Date": "2015-03-02"
+    },
+    {
+        "Project_Name": "Task Alpha",
+        "Country": "Ivory Coast",
+        "Price": 690217.16,
+        "Date": "2024-15-04"
+    },
+    {
+        "Project_Name": "Development Echo",
+        "Country": "Comoros",
+        "Price": 26532.57,
+        "Date": "2020-11-02"
+    },
+    {
+        "Project_Name": "Project Omega",
+        "Country": "Tanzania",
+        "Price": 701371.43,
+        "Date": "2019-06-04"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Libya",
+        "Price": 471344.48,
+        "Date": "2022-11-10"
+    },
+    {
+        "Project_Name": "Scheme Echo",
+        "Country": "Guinea-Bissau",
+        "Price": 258584.19,
+        "Date": "2018-31-07"
+    },
+    {
+        "Project_Name": "Program Echo",
+        "Country": "Burundi",
+        "Price": 763473.67,
+        "Date": "2019-07-01"
+    },
+    {
+        "Project_Name": "Plan Bravo",
+        "Country": "Tanzania",
+        "Price": 91955.77,
+        "Date": "2018-23-10"
+    },
+    {
+        "Project_Name": "Initiative Echo",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 186970.52,
+        "Date": "2020-26-01"
+    },
+    {
+        "Project_Name": "Initiative Sierra",
+        "Country": "South Sudan",
+        "Price": 436861.86,
+        "Date": "2023-07-04"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "Uganda",
+        "Price": 961278.5,
+        "Date": "2015-01-11"
+    },
+    {
+        "Project_Name": "Development Delta",
+        "Country": "Guinea",
+        "Price": 715448.33,
+        "Date": "2023-11-10"
+    },
+    {
+        "Project_Name": "Operation Tango",
+        "Country": "Gambia",
+        "Price": 949504.59,
+        "Date": "2019-27-08"
+    },
+    {
+        "Project_Name": "Development Alpha",
+        "Country": "Tanzania",
+        "Price": 105386.21,
+        "Date": "2017-27-10"
+    },
+    {
+        "Project_Name": "Development Omega",
+        "Country": "Mauritania",
+        "Price": 492175.9,
+        "Date": "2023-27-03"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "South Africa",
+        "Price": 980563.03,
+        "Date": "2016-12-10"
+    },
+    {
+        "Project_Name": "Scheme Bravo",
+        "Country": "Mauritius",
+        "Price": 356215.84,
+        "Date": "2016-12-03"
+    },
+    {
+        "Project_Name": "Scheme Sierra",
+        "Country": "Mauritius",
+        "Price": 66016.8,
+        "Date": "2019-23-11"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Eswatini",
+        "Price": 193466.62,
+        "Date": "2022-25-03"
+    },
+    {
+        "Project_Name": "Scheme Bravo",
+        "Country": "Sierra Leone",
+        "Price": 873137.36,
+        "Date": "2020-19-08"
+    },
+    {
+        "Project_Name": "Task Alpha",
+        "Country": "Zambia",
+        "Price": 939212.68,
+        "Date": "2020-01-09"
+    },
+    {
+        "Project_Name": "Project Foxtrot",
+        "Country": "Seychelles",
+        "Price": 63770.72,
+        "Date": "2022-04-03"
+    },
+    {
+        "Project_Name": "Plan Bravo",
+        "Country": "Sierra Leone",
+        "Price": 547670.61,
+        "Date": "2023-30-01"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "Ivory Coast",
+        "Price": 553680.04,
+        "Date": "2016-04-06"
+    },
+    {
+        "Project_Name": "Project Omega",
+        "Country": "Senegal",
+        "Price": 871126.23,
+        "Date": "2017-15-10"
+    },
+    {
+        "Project_Name": "Task Delta",
+        "Country": "Uganda",
+        "Price": 638108.37,
+        "Date": "2015-29-07"
+    },
+    {
+        "Project_Name": "Scheme Foxtrot",
+        "Country": "Guinea-Bissau",
+        "Price": 706035.92,
+        "Date": "2022-02-01"
+    },
+    {
+        "Project_Name": "Program Omega",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 872612.65,
+        "Date": "2015-26-05"
+    },
+    {
+        "Project_Name": "Task Tango",
+        "Country": "Liberia",
+        "Price": 932534.71,
+        "Date": "2022-16-02"
+    },
+    {
+        "Project_Name": "Project Gamma",
+        "Country": "Uganda",
+        "Price": 715954.84,
+        "Date": "2021-31-12"
+    },
+    {
+        "Project_Name": "Program Alpha",
+        "Country": "Lesotho",
+        "Price": 459058.48,
+        "Date": "2019-06-12"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Ethiopia",
+        "Price": 835314.69,
+        "Date": "2023-14-06"
+    },
+    {
+        "Project_Name": "Project Zeta",
+        "Country": "Mali",
+        "Price": 55026.46,
+        "Date": "2019-27-03"
+    },
+    {
+        "Project_Name": "Operation Bravo",
+        "Country": "Central African Republic",
+        "Price": 58390.56,
+        "Date": "2022-19-09"
+    },
+    {
+        "Project_Name": "Program Bravo",
+        "Country": "Algeria",
+        "Price": 913384.13,
+        "Date": "2018-18-07"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Tunisia",
+        "Price": 816858.09,
+        "Date": "2018-07-02"
+    },
+    {
+        "Project_Name": "Scheme Alpha",
+        "Country": "Lesotho",
+        "Price": 336182.07,
+        "Date": "2016-10-04"
+    },
+    {
+        "Project_Name": "Initiative Echo",
+        "Country": "Central African Republic",
+        "Price": 525546.97,
+        "Date": "2017-28-01"
+    },
+    {
+        "Project_Name": "Plan Foxtrot",
+        "Country": "Mozambique",
+        "Price": 770546.49,
+        "Date": "2020-15-08"
+    },
+    {
+        "Project_Name": "Development Delta",
+        "Country": "Namibia",
+        "Price": 652790.68,
+        "Date": "2024-21-12"
+    },
+    {
+        "Project_Name": "Operation Tango",
+        "Country": "Ghana",
+        "Price": 900155.32,
+        "Date": "2023-22-01"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Mauritania",
+        "Price": 769098.27,
+        "Date": "2023-18-02"
+    },
+    {
+        "Project_Name": "Initiative Zeta",
+        "Country": "Djibouti",
+        "Price": 751365.18,
+        "Date": "2016-28-09"
+    },
+    {
+        "Project_Name": "Operation Zeta",
+        "Country": "Mauritius",
+        "Price": 830719.62,
+        "Date": "2019-18-04"
+    },
+    {
+        "Project_Name": "Plan Tango",
+        "Country": "Mali",
+        "Price": 987351.62,
+        "Date": "2018-04-04"
+    },
+    {
+        "Project_Name": "Plan Echo",
+        "Country": "Gambia",
+        "Price": 657359.74,
+        "Date": "2023-02-09"
+    },
+    {
+        "Project_Name": "Operation Foxtrot",
+        "Country": "Namibia",
+        "Price": 610917.47,
+        "Date": "2017-28-06"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Gambia",
+        "Price": 182027.51,
+        "Date": "2018-29-06"
+    },
+    {
+        "Project_Name": "Development Alpha",
+        "Country": "Cameroon",
+        "Price": 890351.73,
+        "Date": "2024-03-07"
+    },
+    {
+        "Project_Name": "Development Delta",
+        "Country": "Niger",
+        "Price": 814154.76,
+        "Date": "2017-17-07"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Algeria",
+        "Price": 28293.22,
+        "Date": "2016-09-06"
+    },
+    {
+        "Project_Name": "Project Gamma",
+        "Country": "Mauritius",
+        "Price": 665074.47,
+        "Date": "2022-22-06"
+    },
+    {
+        "Project_Name": "Plan Foxtrot",
+        "Country": "Botswana",
+        "Price": 74878.34,
+        "Date": "2023-22-12"
+    },
+    {
+        "Project_Name": "Task Foxtrot",
+        "Country": "Burkina Faso",
+        "Price": 748347.62,
+        "Date": "2020-26-08"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Senegal",
+        "Price": 764268.32,
+        "Date": "2016-25-04"
+    },
+    {
+        "Project_Name": "Development Gamma",
+        "Country": "Mauritius",
+        "Price": 715382.24,
+        "Date": "2023-07-09"
+    },
+    {
+        "Project_Name": "Scheme Delta",
+        "Country": "Senegal",
+        "Price": 154514.58,
+        "Date": "2016-07-06"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Chad",
+        "Price": 857544.37,
+        "Date": "2020-09-03"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "Angola",
+        "Price": 21057.38,
+        "Date": "2018-06-04"
+    },
+    {
+        "Project_Name": "Initiative Sierra",
+        "Country": "Libya",
+        "Price": 802624.34,
+        "Date": "2017-20-11"
+    },
+    {
+        "Project_Name": "Operation Omega",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 124718.95,
+        "Date": "2023-22-11"
+    },
+    {
+        "Project_Name": "Initiative Sierra",
+        "Country": "Uganda",
+        "Price": 193126.6,
+        "Date": "2015-23-08"
+    },
+    {
+        "Project_Name": "Initiative Omega",
+        "Country": "Central African Republic",
+        "Price": 504564.79,
+        "Date": "2016-28-07"
+    },
+    {
+        "Project_Name": "Plan Zeta",
+        "Country": "Congo",
+        "Price": 311077.61,
+        "Date": "2023-30-11"
+    },
+    {
+        "Project_Name": "Operation Omega",
+        "Country": "Sao Tome and Principe",
+        "Price": 954447.72,
+        "Date": "2016-09-01"
+    },
+    {
+        "Project_Name": "Plan Sierra",
+        "Country": "Cabo Verde",
+        "Price": 511172.29,
+        "Date": "2015-19-11"
+    },
+    {
+        "Project_Name": "Task Gamma",
+        "Country": "Nigeria",
+        "Price": 668018.94,
+        "Date": "2021-13-09"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Mali",
+        "Price": 683979.38,
+        "Date": "2022-30-04"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "Central African Republic",
+        "Price": 53252.92,
+        "Date": "2023-07-10"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "South Africa",
+        "Price": 991976.5,
+        "Date": "2015-26-06"
+    },
+    {
+        "Project_Name": "Plan Delta",
+        "Country": "Madagascar",
+        "Price": 691881.92,
+        "Date": "2018-25-11"
+    },
+    {
+        "Project_Name": "Plan Echo",
+        "Country": "Eritrea",
+        "Price": 546724.74,
+        "Date": "2018-11-11"
+    },
+    {
+        "Project_Name": "Program Omega",
+        "Country": "Congo",
+        "Price": 682974.13,
+        "Date": "2023-31-07"
+    },
+    {
+        "Project_Name": "Operation Zeta",
+        "Country": "Cameroon",
+        "Price": 166236.25,
+        "Date": "2019-20-01"
+    },
+    {
+        "Project_Name": "Plan Sierra",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 874546.81,
+        "Date": "2015-07-01"
+    },
+    {
+        "Project_Name": "Development Bravo",
+        "Country": "Togo",
+        "Price": 80018.44,
+        "Date": "2021-06-05"
+    },
+    {
+        "Project_Name": "Initiative Delta",
+        "Country": "Algeria",
+        "Price": 285768.77,
+        "Date": "2018-14-03"
+    },
+    {
+        "Project_Name": "Plan Tango",
+        "Country": "Cameroon",
+        "Price": 142550.38,
+        "Date": "2024-06-11"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Seychelles",
+        "Price": 550099.02,
+        "Date": "2018-20-06"
+    },
+    {
+        "Project_Name": "Operation Foxtrot",
+        "Country": "Sudan",
+        "Price": 290594.22,
+        "Date": "2024-24-06"
+    },
+    {
+        "Project_Name": "Operation Gamma",
+        "Country": "Gabon",
+        "Price": 949253.79,
+        "Date": "2023-27-01"
+    },
+    {
+        "Project_Name": "Operation Gamma",
+        "Country": "Tanzania",
+        "Price": 992320.65,
+        "Date": "2020-26-10"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Sudan",
+        "Price": 357254.14,
+        "Date": "2015-05-02"
+    },
+    {
+        "Project_Name": "Initiative Zeta",
+        "Country": "Guinea",
+        "Price": 184464.29,
+        "Date": "2015-10-07"
+    },
+    {
+        "Project_Name": "Program Alpha",
+        "Country": "Angola",
+        "Price": 164803.18,
+        "Date": "2017-27-10"
+    },
+    {
+        "Project_Name": "Scheme Bravo",
+        "Country": "Botswana",
+        "Price": 541757.12,
+        "Date": "2016-28-06"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "Eritrea",
+        "Price": 775028.42,
+        "Date": "2022-11-05"
+    },
+    {
+        "Project_Name": "Operation Tango",
+        "Country": "Senegal",
+        "Price": 780351.06,
+        "Date": "2018-26-11"
+    },
+    {
+        "Project_Name": "Task Bravo",
+        "Country": "Libya",
+        "Price": 30460.14,
+        "Date": "2022-10-07"
+    },
+    {
+        "Project_Name": "Scheme Zeta",
+        "Country": "Chad",
+        "Price": 875477.96,
+        "Date": "2018-16-03"
+    },
+    {
+        "Project_Name": "Initiative Gamma",
+        "Country": "Malawi",
+        "Price": 941877.35,
+        "Date": "2017-31-12"
+    },
+    {
+        "Project_Name": "Scheme Delta",
+        "Country": "Central African Republic",
+        "Price": 734071.3,
+        "Date": "2023-12-06"
+    },
+    {
+        "Project_Name": "Project Foxtrot",
+        "Country": "Congo",
+        "Price": 307905.2,
+        "Date": "2018-19-02"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "Sudan",
+        "Price": 140768.07,
+        "Date": "2020-06-06"
+    },
+    {
+        "Project_Name": "Program Foxtrot",
+        "Country": "Equatorial Guinea",
+        "Price": 532156.24,
+        "Date": "2016-02-11"
+    },
+    {
+        "Project_Name": "Initiative Omega",
+        "Country": "South Africa",
+        "Price": 792648.54,
+        "Date": "2022-22-07"
+    },
+    {
+        "Project_Name": "Program Gamma",
+        "Country": "Somalia",
+        "Price": 624374.09,
+        "Date": "2018-23-08"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Sudan",
+        "Price": 159825.43,
+        "Date": "2024-08-12"
+    },
+    {
+        "Project_Name": "Plan Tango",
+        "Country": "Lesotho",
+        "Price": 181093.93,
+        "Date": "2018-03-07"
+    },
+    {
+        "Project_Name": "Program Echo",
+        "Country": "Angola",
+        "Price": 959247.77,
+        "Date": "2017-08-04"
+    },
+    {
+        "Project_Name": "Development Omega",
+        "Country": "Eritrea",
+        "Price": 252958.39,
+        "Date": "2017-14-10"
+    },
+    {
+        "Project_Name": "Development Echo",
+        "Country": "Tanzania",
+        "Price": 168906.24,
+        "Date": "2018-28-03"
+    },
+    {
+        "Project_Name": "Plan Sierra",
+        "Country": "Cabo Verde",
+        "Price": 820156.75,
+        "Date": "2015-22-01"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Guinea-Bissau",
+        "Price": 987842.66,
+        "Date": "2024-08-08"
+    },
+    {
+        "Project_Name": "Operation Alpha",
+        "Country": "Libya",
+        "Price": 434471.88,
+        "Date": "2022-06-12"
+    },
+    {
+        "Project_Name": "Task Tango",
+        "Country": "Nigeria",
+        "Price": 607915.57,
+        "Date": "2019-21-10"
+    },
+    {
+        "Project_Name": "Plan Foxtrot",
+        "Country": "Sierra Leone",
+        "Price": 314786.26,
+        "Date": "2021-15-07"
+    },
+    {
+        "Project_Name": "Initiative Foxtrot",
+        "Country": "Mauritania",
+        "Price": 189307.95,
+        "Date": "2021-12-11"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Namibia",
+        "Price": 171690.5,
+        "Date": "2020-07-02"
+    },
+    {
+        "Project_Name": "Operation Foxtrot",
+        "Country": "Uganda",
+        "Price": 745268.11,
+        "Date": "2018-28-04"
+    },
+    {
+        "Project_Name": "Initiative Alpha",
+        "Country": "Central African Republic",
+        "Price": 384290.1,
+        "Date": "2021-20-05"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Lesotho",
+        "Price": 521849.8,
+        "Date": "2023-24-11"
+    },
+    {
+        "Project_Name": "Development Echo",
+        "Country": "Seychelles",
+        "Price": 389516.03,
+        "Date": "2022-16-04"
+    },
+    {
+        "Project_Name": "Development Alpha",
+        "Country": "Central African Republic",
+        "Price": 556992.5,
+        "Date": "2024-26-11"
+    },
+    {
+        "Project_Name": "Plan Zeta",
+        "Country": "Sudan",
+        "Price": 787353.95,
+        "Date": "2024-03-03"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "Eswatini",
+        "Price": 999875.46,
+        "Date": "2023-19-10"
+    },
+    {
+        "Project_Name": "Development Delta",
+        "Country": "Somalia",
+        "Price": 882854.23,
+        "Date": "2024-29-06"
+    },
+    {
+        "Project_Name": "Scheme Tango",
+        "Country": "Gambia",
+        "Price": 278079.93,
+        "Date": "2015-26-07"
+    },
+    {
+        "Project_Name": "Plan Gamma",
+        "Country": "Eswatini",
+        "Price": 976903.74,
+        "Date": "2019-18-07"
+    },
+    {
+        "Project_Name": "Scheme Foxtrot",
+        "Country": "Angola",
+        "Price": 340596.4,
+        "Date": "2016-21-09"
+    },
+    {
+        "Project_Name": "Program Alpha",
+        "Country": "Zimbabwe",
+        "Price": 425353.91,
+        "Date": "2023-31-01"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Zimbabwe",
+        "Price": 897102.24,
+        "Date": "2024-28-09"
+    },
+    {
+        "Project_Name": "Plan Delta",
+        "Country": "Equatorial Guinea",
+        "Price": 742852.32,
+        "Date": "2022-27-06"
+    },
+    {
+        "Project_Name": "Scheme Sierra",
+        "Country": "Gabon",
+        "Price": 176057.18,
+        "Date": "2024-30-09"
+    },
+    {
+        "Project_Name": "Operation Sierra",
+        "Country": "Sao Tome and Principe",
+        "Price": 556679.35,
+        "Date": "2020-17-05"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Liberia",
+        "Price": 736409.68,
+        "Date": "2021-22-07"
+    },
+    {
+        "Project_Name": "Project Omega",
+        "Country": "Seychelles",
+        "Price": 285486.07,
+        "Date": "2020-09-11"
+    },
+    {
+        "Project_Name": "Initiative Sierra",
+        "Country": "Zambia",
+        "Price": 644268.49,
+        "Date": "2022-16-05"
+    },
+    {
+        "Project_Name": "Operation Foxtrot",
+        "Country": "Seychelles",
+        "Price": 325062.92,
+        "Date": "2019-23-12"
+    },
+    {
+        "Project_Name": "Program Tango",
+        "Country": "Tanzania",
+        "Price": 618355.66,
+        "Date": "2021-26-11"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Senegal",
+        "Price": 525174.15,
+        "Date": "2020-28-11"
+    },
+    {
+        "Project_Name": "Task Alpha",
+        "Country": "Kenya",
+        "Price": 798927.89,
+        "Date": "2018-27-11"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "Seychelles",
+        "Price": 993224.9,
+        "Date": "2021-08-01"
+    },
+    {
+        "Project_Name": "Plan Foxtrot",
+        "Country": "Algeria",
+        "Price": 745151.29,
+        "Date": "2017-12-11"
+    },
+    {
+        "Project_Name": "Scheme Bravo",
+        "Country": "Botswana",
+        "Price": 832480.18,
+        "Date": "2016-22-05"
+    },
+    {
+        "Project_Name": "Initiative Gamma",
+        "Country": "Gabon",
+        "Price": 874781.65,
+        "Date": "2017-15-06"
+    },
+    {
+        "Project_Name": "Plan Bravo",
+        "Country": "Niger",
+        "Price": 668001.63,
+        "Date": "2022-12-12"
+    },
+    {
+        "Project_Name": "Project Bravo",
+        "Country": "Burundi",
+        "Price": 423526.87,
+        "Date": "2020-22-04"
+    },
+    {
+        "Project_Name": "Initiative Delta",
+        "Country": "Kenya",
+        "Price": 812343.56,
+        "Date": "2024-19-06"
+    },
+    {
+        "Project_Name": "Development Bravo",
+        "Country": "Mozambique",
+        "Price": 113646.97,
+        "Date": "2018-04-06"
+    },
+    {
+        "Project_Name": "Operation Omega",
+        "Country": "Djibouti",
+        "Price": 22433.2,
+        "Date": "2018-26-05"
+    },
+    {
+        "Project_Name": "Development Tango",
+        "Country": "Algeria",
+        "Price": 843498.84,
+        "Date": "2015-12-06"
+    },
+    {
+        "Project_Name": "Project Bravo",
+        "Country": "Zambia",
+        "Price": 55490.63,
+        "Date": "2021-28-08"
+    },
+    {
+        "Project_Name": "Initiative Bravo",
+        "Country": "South Africa",
+        "Price": 584407.05,
+        "Date": "2020-13-02"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Eritrea",
+        "Price": 205096.47,
+        "Date": "2018-08-11"
+    },
+    {
+        "Project_Name": "Scheme Zeta",
+        "Country": "South Africa",
+        "Price": 36630.22,
+        "Date": "2021-20-01"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "Ethiopia",
+        "Price": 430461.34,
+        "Date": "2017-30-08"
+    },
+    {
+        "Project_Name": "Plan Delta",
+        "Country": "Mozambique",
+        "Price": 635333.61,
+        "Date": "2022-23-05"
+    },
+    {
+        "Project_Name": "Scheme Bravo",
+        "Country": "Madagascar",
+        "Price": 535121.7,
+        "Date": "2021-18-01"
+    },
+    {
+        "Project_Name": "Development Bravo",
+        "Country": "Lesotho",
+        "Price": 92819.75,
+        "Date": "2019-06-03"
+    },
+    {
+        "Project_Name": "Scheme Delta",
+        "Country": "Cameroon",
+        "Price": 117929.21,
+        "Date": "2023-15-11"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Guinea-Bissau",
+        "Price": 179551.44,
+        "Date": "2023-16-09"
+    },
+    {
+        "Project_Name": "Task Foxtrot",
+        "Country": "Burundi",
+        "Price": 989430.64,
+        "Date": "2018-04-01"
+    },
+    {
+        "Project_Name": "Scheme Echo",
+        "Country": "Angola",
+        "Price": 864388.29,
+        "Date": "2018-03-08"
+    },
+    {
+        "Project_Name": "Operation Bravo",
+        "Country": "Botswana",
+        "Price": 229375.94,
+        "Date": "2021-21-07"
+    },
+    {
+        "Project_Name": "Scheme Gamma",
+        "Country": "Ivory Coast",
+        "Price": 611362.0,
+        "Date": "2019-13-12"
+    },
+    {
+        "Project_Name": "Development Echo",
+        "Country": "Sao Tome and Principe",
+        "Price": 898517.63,
+        "Date": "2024-05-01"
+    },
+    {
+        "Project_Name": "Development Sierra",
+        "Country": "Ivory Coast",
+        "Price": 646042.98,
+        "Date": "2019-10-06"
+    },
+    {
+        "Project_Name": "Initiative Echo",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 378900.21,
+        "Date": "2022-05-03"
+    },
+    {
+        "Project_Name": "Initiative Bravo",
+        "Country": "Ethiopia",
+        "Price": 926696.11,
+        "Date": "2016-04-05"
+    },
+    {
+        "Project_Name": "Project Sierra",
+        "Country": "Kenya",
+        "Price": 156422.69,
+        "Date": "2021-23-01"
+    },
+    {
+        "Project_Name": "Initiative Gamma",
+        "Country": "Uganda",
+        "Price": 55777.12,
+        "Date": "2020-11-08"
+    },
+    {
+        "Project_Name": "Plan Omega",
+        "Country": "Madagascar",
+        "Price": 311409.41,
+        "Date": "2022-25-07"
+    },
+    {
+        "Project_Name": "Project Gamma",
+        "Country": "Niger",
+        "Price": 59353.17,
+        "Date": "2022-04-08"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "Malawi",
+        "Price": 259889.35,
+        "Date": "2016-21-05"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Tanzania",
+        "Price": 142140.56,
+        "Date": "2016-18-08"
+    },
+    {
+        "Project_Name": "Initiative Bravo",
+        "Country": "Lesotho",
+        "Price": 745092.32,
+        "Date": "2020-01-07"
+    },
+    {
+        "Project_Name": "Development Bravo",
+        "Country": "Liberia",
+        "Price": 685658.05,
+        "Date": "2015-08-11"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "Kenya",
+        "Price": 347218.66,
+        "Date": "2021-09-06"
+    },
+    {
+        "Project_Name": "Development Echo",
+        "Country": "Ethiopia",
+        "Price": 32598.79,
+        "Date": "2016-15-07"
+    },
+    {
+        "Project_Name": "Development Delta",
+        "Country": "Uganda",
+        "Price": 245040.37,
+        "Date": "2019-30-06"
+    },
+    {
+        "Project_Name": "Task Zeta",
+        "Country": "Zambia",
+        "Price": 473226.2,
+        "Date": "2021-08-09"
+    },
+    {
+        "Project_Name": "Project Foxtrot",
+        "Country": "Malawi",
+        "Price": 691498.7,
+        "Date": "2020-31-10"
+    },
+    {
+        "Project_Name": "Initiative Alpha",
+        "Country": "Zimbabwe",
+        "Price": 98293.19,
+        "Date": "2015-14-03"
+    },
+    {
+        "Project_Name": "Task Gamma",
+        "Country": "Burundi",
+        "Price": 497071.39,
+        "Date": "2019-03-12"
+    },
+    {
+        "Project_Name": "Operation Sierra",
+        "Country": "Lesotho",
+        "Price": 341096.73,
+        "Date": "2024-03-06"
+    },
+    {
+        "Project_Name": "Initiative Foxtrot",
+        "Country": "Botswana",
+        "Price": 193199.61,
+        "Date": "2021-03-07"
+    },
+    {
+        "Project_Name": "Initiative Bravo",
+        "Country": "Cameroon",
+        "Price": 383733.07,
+        "Date": "2016-25-12"
+    },
+    {
+        "Project_Name": "Plan Zeta",
+        "Country": "Burkina Faso",
+        "Price": 121513.65,
+        "Date": "2019-17-08"
+    },
+    {
+        "Project_Name": "Program Gamma",
+        "Country": "Benin",
+        "Price": 265236.89,
+        "Date": "2017-06-04"
+    },
+    {
+        "Project_Name": "Project Zeta",
+        "Country": "Algeria",
+        "Price": 900521.49,
+        "Date": "2016-01-01"
+    },
+    {
+        "Project_Name": "Initiative Alpha",
+        "Country": "South Sudan",
+        "Price": 997936.36,
+        "Date": "2024-21-01"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Mali",
+        "Price": 924479.38,
+        "Date": "2019-18-12"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "Sudan",
+        "Price": 678771.39,
+        "Date": "2022-04-11"
+    },
+    {
+        "Project_Name": "Development Tango",
+        "Country": "Benin",
+        "Price": 614878.6,
+        "Date": "2023-19-03"
+    },
+    {
+        "Project_Name": "Project Omega",
+        "Country": "Lesotho",
+        "Price": 638917.51,
+        "Date": "2020-21-10"
+    },
+    {
+        "Project_Name": "Scheme Tango",
+        "Country": "Tunisia",
+        "Price": 451727.07,
+        "Date": "2021-27-03"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Cabo Verde",
+        "Price": 255251.91,
+        "Date": "2022-16-05"
+    },
+    {
+        "Project_Name": "Initiative Foxtrot",
+        "Country": "Morocco",
+        "Price": 925181.22,
+        "Date": "2020-24-03"
+    },
+    {
+        "Project_Name": "Plan Omega",
+        "Country": "Uganda",
+        "Price": 948920.26,
+        "Date": "2021-05-04"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Guinea-Bissau",
+        "Price": 817900.94,
+        "Date": "2022-07-04"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Ghana",
+        "Price": 311513.62,
+        "Date": "2018-27-01"
+    },
+    {
+        "Project_Name": "Initiative Zeta",
+        "Country": "Comoros",
+        "Price": 297111.14,
+        "Date": "2015-10-10"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Ghana",
+        "Price": 451283.9,
+        "Date": "2018-01-03"
+    },
+    {
+        "Project_Name": "Scheme Tango",
+        "Country": "Libya",
+        "Price": 53448.29,
+        "Date": "2020-01-10"
+    },
+    {
+        "Project_Name": "Task Gamma",
+        "Country": "South Africa",
+        "Price": 107588.97,
+        "Date": "2015-11-10"
+    },
+    {
+        "Project_Name": "Plan Tango",
+        "Country": "Burundi",
+        "Price": 38679.67,
+        "Date": "2023-21-02"
+    },
+    {
+        "Project_Name": "Initiative Sierra",
+        "Country": "Benin",
+        "Price": 56521.15,
+        "Date": "2018-23-01"
+    },
+    {
+        "Project_Name": "Project Foxtrot",
+        "Country": "Mauritania",
+        "Price": 250056.32,
+        "Date": "2018-06-05"
+    },
+    {
+        "Project_Name": "Program Echo",
+        "Country": "Malawi",
+        "Price": 206883.8,
+        "Date": "2022-04-12"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "Ghana",
+        "Price": 913870.98,
+        "Date": "2018-17-11"
+    },
+    {
+        "Project_Name": "Plan Gamma",
+        "Country": "Congo",
+        "Price": 101284.38,
+        "Date": "2019-13-11"
+    },
+    {
+        "Project_Name": "Initiative Bravo",
+        "Country": "Seychelles",
+        "Price": 322909.29,
+        "Date": "2015-20-04"
+    },
+    {
+        "Project_Name": "Plan Echo",
+        "Country": "Gambia",
+        "Price": 758902.9,
+        "Date": "2020-31-10"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Namibia",
+        "Price": 272542.87,
+        "Date": "2020-11-11"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Madagascar",
+        "Price": 25739.38,
+        "Date": "2016-17-12"
+    },
+    {
+        "Project_Name": "Project Delta",
+        "Country": "Botswana",
+        "Price": 481057.32,
+        "Date": "2018-03-07"
+    },
+    {
+        "Project_Name": "Development Tango",
+        "Country": "Mozambique",
+        "Price": 13236.26,
+        "Date": "2023-12-07"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Lesotho",
+        "Price": 526024.59,
+        "Date": "2022-23-05"
+    },
+    {
+        "Project_Name": "Project Sierra",
+        "Country": "Libya",
+        "Price": 280376.46,
+        "Date": "2020-06-12"
+    },
+    {
+        "Project_Name": "Development Delta",
+        "Country": "Central African Republic",
+        "Price": 898509.39,
+        "Date": "2022-07-12"
+    },
+    {
+        "Project_Name": "Scheme Zeta",
+        "Country": "Somalia",
+        "Price": 287915.76,
+        "Date": "2023-23-07"
+    },
+    {
+        "Project_Name": "Development Foxtrot",
+        "Country": "Guinea",
+        "Price": 459299.28,
+        "Date": "2021-15-08"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "Burkina Faso",
+        "Price": 239098.71,
+        "Date": "2016-01-03"
+    },
+    {
+        "Project_Name": "Development Delta",
+        "Country": "Equatorial Guinea",
+        "Price": 938316.96,
+        "Date": "2015-28-04"
+    },
+    {
+        "Project_Name": "Program Alpha",
+        "Country": "Lesotho",
+        "Price": 857730.41,
+        "Date": "2022-13-01"
+    },
+    {
+        "Project_Name": "Initiative Gamma",
+        "Country": "Cameroon",
+        "Price": 636563.35,
+        "Date": "2022-16-03"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Mauritius",
+        "Price": 513248.32,
+        "Date": "2017-12-08"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Djibouti",
+        "Price": 728602.67,
+        "Date": "2017-09-02"
+    },
+    {
+        "Project_Name": "Plan Zeta",
+        "Country": "Cabo Verde",
+        "Price": 377042.94,
+        "Date": "2016-31-01"
+    },
+    {
+        "Project_Name": "Program Bravo",
+        "Country": "Benin",
+        "Price": 459237.99,
+        "Date": "2023-27-12"
+    },
+    {
+        "Project_Name": "Plan Delta",
+        "Country": "Tunisia",
+        "Price": 445094.38,
+        "Date": "2021-20-01"
+    },
+    {
+        "Project_Name": "Project Tango",
+        "Country": "Zimbabwe",
+        "Price": 283265.88,
+        "Date": "2024-02-08"
+    },
+    {
+        "Project_Name": "Project Tango",
+        "Country": "Guinea-Bissau",
+        "Price": 869123.61,
+        "Date": "2022-30-04"
+    },
+    {
+        "Project_Name": "Plan Foxtrot",
+        "Country": "Kenya",
+        "Price": 975634.08,
+        "Date": "2022-04-02"
+    },
+    {
+        "Project_Name": "Task Alpha",
+        "Country": "Sierra Leone",
+        "Price": 42577.89,
+        "Date": "2017-29-01"
+    },
+    {
+        "Project_Name": "Program Gamma",
+        "Country": "Zambia",
+        "Price": 225710.36,
+        "Date": "2015-29-10"
+    },
+    {
+        "Project_Name": "Development Tango",
+        "Country": "Nigeria",
+        "Price": 83363.81,
+        "Date": "2024-30-09"
+    },
+    {
+        "Project_Name": "Scheme Sierra",
+        "Country": "Equatorial Guinea",
+        "Price": 979273.2,
+        "Date": "2019-27-04"
+    },
+    {
+        "Project_Name": "Operation Alpha",
+        "Country": "Algeria",
+        "Price": 203638.89,
+        "Date": "2015-22-05"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Angola",
+        "Price": 602314.43,
+        "Date": "2019-18-03"
+    },
+    {
+        "Project_Name": "Program Delta",
+        "Country": "Eritrea",
+        "Price": 579933.05,
+        "Date": "2020-12-01"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Morocco",
+        "Price": 39536.5,
+        "Date": "2019-31-07"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "Chad",
+        "Price": 522402.65,
+        "Date": "2020-02-12"
+    },
+    {
+        "Project_Name": "Project Delta",
+        "Country": "Madagascar",
+        "Price": 715475.52,
+        "Date": "2022-01-02"
+    },
+    {
+        "Project_Name": "Scheme Tango",
+        "Country": "South Africa",
+        "Price": 21961.17,
+        "Date": "2018-06-04"
+    },
+    {
+        "Project_Name": "Task Delta",
+        "Country": "Djibouti",
+        "Price": 288754.05,
+        "Date": "2021-25-07"
+    },
+    {
+        "Project_Name": "Project Omega",
+        "Country": "South Africa",
+        "Price": 64898.84,
+        "Date": "2018-03-08"
+    },
+    {
+        "Project_Name": "Development Bravo",
+        "Country": "Botswana",
+        "Price": 97450.83,
+        "Date": "2018-07-11"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Ghana",
+        "Price": 22568.54,
+        "Date": "2022-10-09"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Cabo Verde",
+        "Price": 410801.4,
+        "Date": "2023-07-12"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "Lesotho",
+        "Price": 943233.26,
+        "Date": "2015-20-02"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Mozambique",
+        "Price": 236071.71,
+        "Date": "2023-13-03"
+    },
+    {
+        "Project_Name": "Project Tango",
+        "Country": "Malawi",
+        "Price": 804385.5,
+        "Date": "2019-31-12"
+    },
+    {
+        "Project_Name": "Scheme Gamma",
+        "Country": "Madagascar",
+        "Price": 341932.96,
+        "Date": "2017-09-01"
+    },
+    {
+        "Project_Name": "Plan Echo",
+        "Country": "Equatorial Guinea",
+        "Price": 172919.6,
+        "Date": "2015-21-08"
+    },
+    {
+        "Project_Name": "Initiative Delta",
+        "Country": "Djibouti",
+        "Price": 242708.27,
+        "Date": "2021-07-10"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Sierra Leone",
+        "Price": 775089.85,
+        "Date": "2024-17-05"
+    },
+    {
+        "Project_Name": "Initiative Delta",
+        "Country": "Sao Tome and Principe",
+        "Price": 762633.49,
+        "Date": "2022-29-11"
+    },
+    {
+        "Project_Name": "Plan Omega",
+        "Country": "Guinea-Bissau",
+        "Price": 361944.17,
+        "Date": "2019-16-10"
+    },
+    {
+        "Project_Name": "Initiative Delta",
+        "Country": "Cabo Verde",
+        "Price": 12665.24,
+        "Date": "2015-05-11"
+    },
+    {
+        "Project_Name": "Operation Gamma",
+        "Country": "Guinea",
+        "Price": 256983.95,
+        "Date": "2019-06-01"
+    },
+    {
+        "Project_Name": "Scheme Omega",
+        "Country": "Libya",
+        "Price": 915009.19,
+        "Date": "2023-23-02"
+    },
+    {
+        "Project_Name": "Operation Tango",
+        "Country": "Egypt",
+        "Price": 152254.78,
+        "Date": "2023-28-12"
+    },
+    {
+        "Project_Name": "Task Zeta",
+        "Country": "Eritrea",
+        "Price": 712770.56,
+        "Date": "2017-01-11"
+    },
+    {
+        "Project_Name": "Task Bravo",
+        "Country": "Ethiopia",
+        "Price": 843200.49,
+        "Date": "2017-18-03"
+    },
+    {
+        "Project_Name": "Development Delta",
+        "Country": "Mali",
+        "Price": 423292.76,
+        "Date": "2017-02-01"
+    },
+    {
+        "Project_Name": "Plan Bravo",
+        "Country": "Burundi",
+        "Price": 583805.29,
+        "Date": "2020-09-09"
+    },
+    {
+        "Project_Name": "Program Gamma",
+        "Country": "Libya",
+        "Price": 908237.6,
+        "Date": "2016-20-11"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Lesotho",
+        "Price": 44721.07,
+        "Date": "2023-22-08"
+    },
+    {
+        "Project_Name": "Plan Gamma",
+        "Country": "Libya",
+        "Price": 45783.08,
+        "Date": "2017-07-10"
+    },
+    {
+        "Project_Name": "Plan Omega",
+        "Country": "Nigeria",
+        "Price": 84834.7,
+        "Date": "2016-12-03"
+    },
+    {
+        "Project_Name": "Operation Sierra",
+        "Country": "Sao Tome and Principe",
+        "Price": 328353.04,
+        "Date": "2022-04-06"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "Algeria",
+        "Price": 903972.12,
+        "Date": "2016-13-12"
+    },
+    {
+        "Project_Name": "Development Bravo",
+        "Country": "Ethiopia",
+        "Price": 778477.94,
+        "Date": "2021-15-10"
+    },
+    {
+        "Project_Name": "Project Omega",
+        "Country": "Lesotho",
+        "Price": 605865.97,
+        "Date": "2017-09-01"
+    },
+    {
+        "Project_Name": "Program Foxtrot",
+        "Country": "Algeria",
+        "Price": 526322.39,
+        "Date": "2016-03-11"
+    },
+    {
+        "Project_Name": "Scheme Bravo",
+        "Country": "Mauritania",
+        "Price": 198825.38,
+        "Date": "2022-26-02"
+    },
+    {
+        "Project_Name": "Plan Echo",
+        "Country": "Mali",
+        "Price": 319199.85,
+        "Date": "2021-26-01"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "Zambia",
+        "Price": 10094.36,
+        "Date": "2018-21-05"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "Sao Tome and Principe",
+        "Price": 947703.7,
+        "Date": "2020-26-08"
+    },
+    {
+        "Project_Name": "Task Zeta",
+        "Country": "Nigeria",
+        "Price": 254923.73,
+        "Date": "2017-01-03"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "South Africa",
+        "Price": 583607.86,
+        "Date": "2020-26-11"
+    },
+    {
+        "Project_Name": "Initiative Sierra",
+        "Country": "Mali",
+        "Price": 207055.59,
+        "Date": "2015-27-02"
+    },
+    {
+        "Project_Name": "Program Bravo",
+        "Country": "Zambia",
+        "Price": 86445.39,
+        "Date": "2018-17-05"
+    },
+    {
+        "Project_Name": "Task Bravo",
+        "Country": "Comoros",
+        "Price": 689127.81,
+        "Date": "2017-05-07"
+    },
+    {
+        "Project_Name": "Task Zeta",
+        "Country": "Malawi",
+        "Price": 319335.61,
+        "Date": "2021-27-07"
+    },
+    {
+        "Project_Name": "Program Gamma",
+        "Country": "Zimbabwe",
+        "Price": 555655.55,
+        "Date": "2018-31-12"
+    },
+    {
+        "Project_Name": "Development Bravo",
+        "Country": "Ethiopia",
+        "Price": 225079.21,
+        "Date": "2016-10-11"
+    },
+    {
+        "Project_Name": "Plan Foxtrot",
+        "Country": "Mauritius",
+        "Price": 66805.14,
+        "Date": "2021-06-02"
+    },
+    {
+        "Project_Name": "Task Foxtrot",
+        "Country": "Algeria",
+        "Price": 634947.54,
+        "Date": "2017-16-03"
+    },
+    {
+        "Project_Name": "Program Zeta",
+        "Country": "Malawi",
+        "Price": 47773.44,
+        "Date": "2019-08-09"
+    },
+    {
+        "Project_Name": "Scheme Sierra",
+        "Country": "Kenya",
+        "Price": 352256.3,
+        "Date": "2019-19-04"
+    },
+    {
+        "Project_Name": "Scheme Echo",
+        "Country": "Cabo Verde",
+        "Price": 451708.14,
+        "Date": "2015-03-02"
+    },
+    {
+        "Project_Name": "Task Gamma",
+        "Country": "Comoros",
+        "Price": 763020.9,
+        "Date": "2022-24-05"
+    },
+    {
+        "Project_Name": "Development Foxtrot",
+        "Country": "Eswatini",
+        "Price": 187511.86,
+        "Date": "2022-10-02"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Uganda",
+        "Price": 283973.38,
+        "Date": "2024-20-02"
+    },
+    {
+        "Project_Name": "Initiative Echo",
+        "Country": "Gabon",
+        "Price": 888024.96,
+        "Date": "2016-30-10"
+    },
+    {
+        "Project_Name": "Task Alpha",
+        "Country": "Gambia",
+        "Price": 539563.61,
+        "Date": "2023-30-01"
+    },
+    {
+        "Project_Name": "Scheme Tango",
+        "Country": "Kenya",
+        "Price": 821099.36,
+        "Date": "2018-11-07"
+    },
+    {
+        "Project_Name": "Development Omega",
+        "Country": "South Sudan",
+        "Price": 189814.12,
+        "Date": "2024-05-09"
+    },
+    {
+        "Project_Name": "Task Alpha",
+        "Country": "Niger",
+        "Price": 924796.07,
+        "Date": "2023-14-12"
+    },
+    {
+        "Project_Name": "Plan Delta",
+        "Country": "Gabon",
+        "Price": 865548.69,
+        "Date": "2024-07-09"
+    },
+    {
+        "Project_Name": "Initiative Foxtrot",
+        "Country": "Burundi",
+        "Price": 114572.61,
+        "Date": "2016-27-08"
+    },
+    {
+        "Project_Name": "Scheme Bravo",
+        "Country": "Zimbabwe",
+        "Price": 921790.15,
+        "Date": "2018-27-08"
+    },
+    {
+        "Project_Name": "Development Gamma",
+        "Country": "Togo",
+        "Price": 553359.35,
+        "Date": "2018-03-10"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Djibouti",
+        "Price": 733814.07,
+        "Date": "2021-02-03"
+    },
+    {
+        "Project_Name": "Initiative Alpha",
+        "Country": "Chad",
+        "Price": 315942.32,
+        "Date": "2016-23-09"
+    },
+    {
+        "Project_Name": "Plan Omega",
+        "Country": "Senegal",
+        "Price": 231435.83,
+        "Date": "2020-26-02"
+    },
+    {
+        "Project_Name": "Project Zeta",
+        "Country": "Namibia",
+        "Price": 508840.2,
+        "Date": "2024-13-02"
+    },
+    {
+        "Project_Name": "Scheme Zeta",
+        "Country": "Eritrea",
+        "Price": 224018.29,
+        "Date": "2020-23-04"
+    },
+    {
+        "Project_Name": "Operation Gamma",
+        "Country": "Mauritania",
+        "Price": 836357.96,
+        "Date": "2022-29-12"
+    },
+    {
+        "Project_Name": "Initiative Delta",
+        "Country": "Malawi",
+        "Price": 149047.45,
+        "Date": "2023-13-03"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 174885.16,
+        "Date": "2016-21-09"
+    },
+    {
+        "Project_Name": "Scheme Sierra",
+        "Country": "Malawi",
+        "Price": 138402.73,
+        "Date": "2020-04-01"
+    },
+    {
+        "Project_Name": "Program Bravo",
+        "Country": "Malawi",
+        "Price": 794231.43,
+        "Date": "2023-28-02"
+    },
+    {
+        "Project_Name": "Plan Gamma",
+        "Country": "Mauritania",
+        "Price": 642732.5,
+        "Date": "2016-17-11"
+    },
+    {
+        "Project_Name": "Project Gamma",
+        "Country": "Cameroon",
+        "Price": 274710.82,
+        "Date": "2024-08-07"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Cameroon",
+        "Price": 869068.63,
+        "Date": "2023-05-03"
+    },
+    {
+        "Project_Name": "Initiative Alpha",
+        "Country": "Central African Republic",
+        "Price": 392493.96,
+        "Date": "2016-15-05"
+    },
+    {
+        "Project_Name": "Task Foxtrot",
+        "Country": "Chad",
+        "Price": 30894.37,
+        "Date": "2017-19-12"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Egypt",
+        "Price": 615359.68,
+        "Date": "2021-27-07"
+    },
+    {
+        "Project_Name": "Plan Tango",
+        "Country": "Nigeria",
+        "Price": 768439.51,
+        "Date": "2024-02-02"
+    },
+    {
+        "Project_Name": "Task Gamma",
+        "Country": "Mozambique",
+        "Price": 801022.66,
+        "Date": "2015-15-06"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Sierra Leone",
+        "Price": 457492.63,
+        "Date": "2017-04-07"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "Nigeria",
+        "Price": 942818.79,
+        "Date": "2017-08-04"
+    },
+    {
+        "Project_Name": "Project Omega",
+        "Country": "Comoros",
+        "Price": 24525.39,
+        "Date": "2021-16-02"
+    },
+    {
+        "Project_Name": "Development Sierra",
+        "Country": "Mauritania",
+        "Price": 992179.71,
+        "Date": "2019-21-10"
+    },
+    {
+        "Project_Name": "Operation Sierra",
+        "Country": "Burundi",
+        "Price": 97919.63,
+        "Date": "2024-17-11"
+    },
+    {
+        "Project_Name": "Plan Delta",
+        "Country": "Seychelles",
+        "Price": 906534.7,
+        "Date": "2016-17-05"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Morocco",
+        "Price": 256695.83,
+        "Date": "2021-26-05"
+    },
+    {
+        "Project_Name": "Operation Tango",
+        "Country": "Madagascar",
+        "Price": 875736.0,
+        "Date": "2024-13-07"
+    },
+    {
+        "Project_Name": "Plan Tango",
+        "Country": "Gambia",
+        "Price": 368357.48,
+        "Date": "2021-02-02"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Lesotho",
+        "Price": 798749.04,
+        "Date": "2023-04-05"
+    },
+    {
+        "Project_Name": "Program Omega",
+        "Country": "Comoros",
+        "Price": 816988.54,
+        "Date": "2024-05-05"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Niger",
+        "Price": 85074.04,
+        "Date": "2017-16-02"
+    },
+    {
+        "Project_Name": "Plan Gamma",
+        "Country": "Zimbabwe",
+        "Price": 699052.38,
+        "Date": "2016-21-05"
+    },
+    {
+        "Project_Name": "Scheme Zeta",
+        "Country": "Sierra Leone",
+        "Price": 871033.52,
+        "Date": "2019-12-01"
+    },
+    {
+        "Project_Name": "Scheme Echo",
+        "Country": "Namibia",
+        "Price": 123256.42,
+        "Date": "2016-03-11"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Madagascar",
+        "Price": 604312.22,
+        "Date": "2019-14-08"
+    },
+    {
+        "Project_Name": "Development Alpha",
+        "Country": "Namibia",
+        "Price": 275393.87,
+        "Date": "2023-05-04"
+    },
+    {
+        "Project_Name": "Task Bravo",
+        "Country": "Ethiopia",
+        "Price": 654628.98,
+        "Date": "2016-21-01"
+    },
+    {
+        "Project_Name": "Plan Gamma",
+        "Country": "Ethiopia",
+        "Price": 342365.19,
+        "Date": "2017-19-07"
+    },
+    {
+        "Project_Name": "Plan Delta",
+        "Country": "Botswana",
+        "Price": 34131.74,
+        "Date": "2022-17-02"
+    },
+    {
+        "Project_Name": "Task Alpha",
+        "Country": "Niger",
+        "Price": 445361.49,
+        "Date": "2024-18-06"
+    },
+    {
+        "Project_Name": "Development Tango",
+        "Country": "Senegal",
+        "Price": 196687.46,
+        "Date": "2016-21-01"
+    },
+    {
+        "Project_Name": "Development Echo",
+        "Country": "Ghana",
+        "Price": 53390.97,
+        "Date": "2024-27-04"
+    },
+    {
+        "Project_Name": "Task Bravo",
+        "Country": "Uganda",
+        "Price": 806368.85,
+        "Date": "2019-14-04"
+    },
+    {
+        "Project_Name": "Development Omega",
+        "Country": "South Sudan",
+        "Price": 840908.6,
+        "Date": "2021-17-06"
+    },
+    {
+        "Project_Name": "Plan Zeta",
+        "Country": "Tanzania",
+        "Price": 188847.26,
+        "Date": "2018-14-10"
+    },
+    {
+        "Project_Name": "Project Foxtrot",
+        "Country": "Comoros",
+        "Price": 676466.07,
+        "Date": "2020-05-05"
+    },
+    {
+        "Project_Name": "Scheme Omega",
+        "Country": "Nigeria",
+        "Price": 610143.57,
+        "Date": "2019-28-06"
+    },
+    {
+        "Project_Name": "Task Delta",
+        "Country": "Malawi",
+        "Price": 581499.42,
+        "Date": "2016-17-01"
+    },
+    {
+        "Project_Name": "Task Gamma",
+        "Country": "Kenya",
+        "Price": 925290.15,
+        "Date": "2023-29-08"
+    },
+    {
+        "Project_Name": "Task Delta",
+        "Country": "Malawi",
+        "Price": 238439.77,
+        "Date": "2016-04-03"
+    },
+    {
+        "Project_Name": "Operation Zeta",
+        "Country": "Cabo Verde",
+        "Price": 771994.97,
+        "Date": "2021-11-03"
+    },
+    {
+        "Project_Name": "Program Tango",
+        "Country": "Angola",
+        "Price": 547466.1,
+        "Date": "2021-10-08"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Madagascar",
+        "Price": 839060.87,
+        "Date": "2019-12-12"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "Ghana",
+        "Price": 133550.72,
+        "Date": "2021-02-11"
+    },
+    {
+        "Project_Name": "Operation Omega",
+        "Country": "Burundi",
+        "Price": 637993.6,
+        "Date": "2019-31-07"
+    },
+    {
+        "Project_Name": "Project Delta",
+        "Country": "Senegal",
+        "Price": 368810.24,
+        "Date": "2021-28-02"
+    },
+    {
+        "Project_Name": "Scheme Echo",
+        "Country": "Madagascar",
+        "Price": 427535.01,
+        "Date": "2023-06-07"
+    },
+    {
+        "Project_Name": "Scheme Delta",
+        "Country": "Djibouti",
+        "Price": 563382.81,
+        "Date": "2015-17-08"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "South Sudan",
+        "Price": 917125.71,
+        "Date": "2019-03-02"
+    },
+    {
+        "Project_Name": "Program Foxtrot",
+        "Country": "Morocco",
+        "Price": 470678.86,
+        "Date": "2015-13-08"
+    },
+    {
+        "Project_Name": "Plan Gamma",
+        "Country": "Morocco",
+        "Price": 961308.06,
+        "Date": "2018-05-04"
+    },
+    {
+        "Project_Name": "Initiative Bravo",
+        "Country": "Angola",
+        "Price": 684050.0,
+        "Date": "2021-17-07"
+    },
+    {
+        "Project_Name": "Scheme Alpha",
+        "Country": "Liberia",
+        "Price": 178724.46,
+        "Date": "2019-14-06"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Niger",
+        "Price": 618949.89,
+        "Date": "2015-17-02"
+    },
+    {
+        "Project_Name": "Scheme Omega",
+        "Country": "Tunisia",
+        "Price": 184856.61,
+        "Date": "2015-03-07"
+    },
+    {
+        "Project_Name": "Task Bravo",
+        "Country": "Djibouti",
+        "Price": 804721.61,
+        "Date": "2021-13-12"
+    },
+    {
+        "Project_Name": "Operation Sierra",
+        "Country": "Cabo Verde",
+        "Price": 960730.35,
+        "Date": "2019-08-01"
+    },
+    {
+        "Project_Name": "Operation Bravo",
+        "Country": "Mauritius",
+        "Price": 411544.41,
+        "Date": "2017-15-09"
+    },
+    {
+        "Project_Name": "Project Tango",
+        "Country": "Morocco",
+        "Price": 434013.24,
+        "Date": "2018-11-10"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Chad",
+        "Price": 230769.85,
+        "Date": "2020-05-12"
+    },
+    {
+        "Project_Name": "Project Sierra",
+        "Country": "Nigeria",
+        "Price": 208266.05,
+        "Date": "2024-02-11"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Comoros",
+        "Price": 953370.28,
+        "Date": "2017-18-03"
+    },
+    {
+        "Project_Name": "Program Omega",
+        "Country": "Equatorial Guinea",
+        "Price": 94029.57,
+        "Date": "2016-10-02"
+    },
+    {
+        "Project_Name": "Project Omega",
+        "Country": "Uganda",
+        "Price": 408578.46,
+        "Date": "2017-22-06"
+    },
+    {
+        "Project_Name": "Task Delta",
+        "Country": "Nigeria",
+        "Price": 402907.4,
+        "Date": "2023-26-08"
+    },
+    {
+        "Project_Name": "Program Delta",
+        "Country": "Chad",
+        "Price": 961174.81,
+        "Date": "2019-04-04"
+    },
+    {
+        "Project_Name": "Project Zeta",
+        "Country": "Sierra Leone",
+        "Price": 250256.4,
+        "Date": "2023-02-02"
+    },
+    {
+        "Project_Name": "Scheme Echo",
+        "Country": "Liberia",
+        "Price": 653850.53,
+        "Date": "2016-16-09"
+    },
+    {
+        "Project_Name": "Scheme Omega",
+        "Country": "Rwanda",
+        "Price": 274636.07,
+        "Date": "2019-20-10"
+    },
+    {
+        "Project_Name": "Task Gamma",
+        "Country": "Gabon",
+        "Price": 134574.93,
+        "Date": "2018-02-05"
+    },
+    {
+        "Project_Name": "Plan Zeta",
+        "Country": "Tanzania",
+        "Price": 483051.67,
+        "Date": "2018-09-09"
+    },
+    {
+        "Project_Name": "Project Sierra",
+        "Country": "Sierra Leone",
+        "Price": 345558.98,
+        "Date": "2015-12-03"
+    },
+    {
+        "Project_Name": "Project Omega",
+        "Country": "South Sudan",
+        "Price": 305116.41,
+        "Date": "2022-31-10"
+    },
+    {
+        "Project_Name": "Project Gamma",
+        "Country": "Libya",
+        "Price": 329353.85,
+        "Date": "2023-24-03"
+    },
+    {
+        "Project_Name": "Development Echo",
+        "Country": "Mali",
+        "Price": 575971.0,
+        "Date": "2020-09-09"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 874733.49,
+        "Date": "2024-23-04"
+    },
+    {
+        "Project_Name": "Development Omega",
+        "Country": "Uganda",
+        "Price": 326672.41,
+        "Date": "2022-03-12"
+    },
+    {
+        "Project_Name": "Initiative Echo",
+        "Country": "Gambia",
+        "Price": 377110.56,
+        "Date": "2017-08-12"
+    },
+    {
+        "Project_Name": "Scheme Delta",
+        "Country": "Madagascar",
+        "Price": 316159.35,
+        "Date": "2018-09-01"
+    },
+    {
+        "Project_Name": "Project Gamma",
+        "Country": "Eritrea",
+        "Price": 328836.97,
+        "Date": "2017-22-05"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 374209.89,
+        "Date": "2020-21-01"
+    },
+    {
+        "Project_Name": "Program Bravo",
+        "Country": "Malawi",
+        "Price": 395311.6,
+        "Date": "2015-22-07"
+    },
+    {
+        "Project_Name": "Program Gamma",
+        "Country": "Sudan",
+        "Price": 738440.82,
+        "Date": "2023-03-11"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Zambia",
+        "Price": 685502.18,
+        "Date": "2021-05-11"
+    },
+    {
+        "Project_Name": "Project Sierra",
+        "Country": "Senegal",
+        "Price": 154284.83,
+        "Date": "2023-12-10"
+    },
+    {
+        "Project_Name": "Program Gamma",
+        "Country": "Algeria",
+        "Price": 315649.93,
+        "Date": "2022-28-10"
+    },
+    {
+        "Project_Name": "Project Sierra",
+        "Country": "Libya",
+        "Price": 155757.27,
+        "Date": "2015-05-08"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Central African Republic",
+        "Price": 79631.1,
+        "Date": "2022-15-01"
+    },
+    {
+        "Project_Name": "Initiative Omega",
+        "Country": "Guinea",
+        "Price": 855016.45,
+        "Date": "2021-30-03"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Congo",
+        "Price": 214746.2,
+        "Date": "2020-17-08"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Mozambique",
+        "Price": 300567.18,
+        "Date": "2024-20-11"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Cabo Verde",
+        "Price": 933471.53,
+        "Date": "2020-09-01"
+    },
+    {
+        "Project_Name": "Operation Omega",
+        "Country": "Mali",
+        "Price": 614697.41,
+        "Date": "2020-28-09"
+    },
+    {
+        "Project_Name": "Scheme Foxtrot",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 170681.55,
+        "Date": "2022-29-07"
+    },
+    {
+        "Project_Name": "Initiative Zeta",
+        "Country": "Sudan",
+        "Price": 339138.32,
+        "Date": "2024-30-03"
+    },
+    {
+        "Project_Name": "Initiative Bravo",
+        "Country": "Guinea-Bissau",
+        "Price": 295097.69,
+        "Date": "2018-27-01"
+    },
+    {
+        "Project_Name": "Scheme Foxtrot",
+        "Country": "Mali",
+        "Price": 39139.8,
+        "Date": "2024-20-05"
+    },
+    {
+        "Project_Name": "Initiative Omega",
+        "Country": "Ivory Coast",
+        "Price": 405191.89,
+        "Date": "2018-14-02"
+    },
+    {
+        "Project_Name": "Project Zeta",
+        "Country": "Benin",
+        "Price": 409863.74,
+        "Date": "2016-16-06"
+    },
+    {
+        "Project_Name": "Project Zeta",
+        "Country": "Djibouti",
+        "Price": 154781.1,
+        "Date": "2016-28-01"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Djibouti",
+        "Price": 93043.97,
+        "Date": "2022-06-05"
+    },
+    {
+        "Project_Name": "Plan Tango",
+        "Country": "Zimbabwe",
+        "Price": 92395.38,
+        "Date": "2016-19-12"
+    },
+    {
+        "Project_Name": "Initiative Sierra",
+        "Country": "Mozambique",
+        "Price": 215077.91,
+        "Date": "2020-05-02"
+    },
+    {
+        "Project_Name": "Plan Echo",
+        "Country": "Malawi",
+        "Price": 800390.05,
+        "Date": "2016-01-08"
+    },
+    {
+        "Project_Name": "Development Alpha",
+        "Country": "Madagascar",
+        "Price": 853864.63,
+        "Date": "2016-12-06"
+    },
+    {
+        "Project_Name": "Initiative Foxtrot",
+        "Country": "Eswatini",
+        "Price": 526042.37,
+        "Date": "2021-11-06"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "Guinea",
+        "Price": 803609.4,
+        "Date": "2021-29-07"
+    },
+    {
+        "Project_Name": "Scheme Echo",
+        "Country": "Guinea-Bissau",
+        "Price": 588706.15,
+        "Date": "2022-14-08"
+    },
+    {
+        "Project_Name": "Initiative Alpha",
+        "Country": "Benin",
+        "Price": 368787.63,
+        "Date": "2015-27-11"
+    },
+    {
+        "Project_Name": "Scheme Alpha",
+        "Country": "Ethiopia",
+        "Price": 545550.33,
+        "Date": "2023-01-02"
+    },
+    {
+        "Project_Name": "Development Gamma",
+        "Country": "Togo",
+        "Price": 871098.33,
+        "Date": "2016-26-09"
+    },
+    {
+        "Project_Name": "Scheme Sierra",
+        "Country": "Mali",
+        "Price": 995141.97,
+        "Date": "2023-24-12"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Somalia",
+        "Price": 695908.96,
+        "Date": "2018-12-04"
+    },
+    {
+        "Project_Name": "Program Echo",
+        "Country": "Sierra Leone",
+        "Price": 420144.71,
+        "Date": "2024-26-06"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Rwanda",
+        "Price": 777740.26,
+        "Date": "2016-29-11"
+    },
+    {
+        "Project_Name": "Development Omega",
+        "Country": "Burundi",
+        "Price": 813952.63,
+        "Date": "2018-01-11"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Sudan",
+        "Price": 785286.43,
+        "Date": "2018-27-03"
+    },
+    {
+        "Project_Name": "Operation Sierra",
+        "Country": "Botswana",
+        "Price": 911628.52,
+        "Date": "2015-21-12"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Guinea-Bissau",
+        "Price": 542944.72,
+        "Date": "2018-20-05"
+    },
+    {
+        "Project_Name": "Development Echo",
+        "Country": "Zambia",
+        "Price": 146277.54,
+        "Date": "2018-29-07"
+    },
+    {
+        "Project_Name": "Task Delta",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 191697.74,
+        "Date": "2021-17-03"
+    },
+    {
+        "Project_Name": "Operation Sierra",
+        "Country": "Morocco",
+        "Price": 180390.07,
+        "Date": "2020-28-11"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Equatorial Guinea",
+        "Price": 249859.29,
+        "Date": "2018-11-08"
+    },
+    {
+        "Project_Name": "Task Delta",
+        "Country": "Libya",
+        "Price": 771320.0,
+        "Date": "2016-27-09"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Congo",
+        "Price": 915447.53,
+        "Date": "2024-14-08"
+    },
+    {
+        "Project_Name": "Development Sierra",
+        "Country": "Uganda",
+        "Price": 925023.22,
+        "Date": "2021-26-03"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Chad",
+        "Price": 960730.38,
+        "Date": "2016-17-02"
+    },
+    {
+        "Project_Name": "Scheme Omega",
+        "Country": "Eritrea",
+        "Price": 501999.68,
+        "Date": "2021-27-04"
+    },
+    {
+        "Project_Name": "Program Gamma",
+        "Country": "Rwanda",
+        "Price": 657622.22,
+        "Date": "2022-31-07"
+    },
+    {
+        "Project_Name": "Program Sierra",
+        "Country": "Morocco",
+        "Price": 938298.57,
+        "Date": "2016-20-01"
+    },
+    {
+        "Project_Name": "Development Delta",
+        "Country": "Guinea",
+        "Price": 438619.98,
+        "Date": "2015-11-05"
+    },
+    {
+        "Project_Name": "Scheme Zeta",
+        "Country": "South Africa",
+        "Price": 536179.02,
+        "Date": "2017-09-04"
+    },
+    {
+        "Project_Name": "Project Delta",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 923624.27,
+        "Date": "2024-27-01"
+    },
+    {
+        "Project_Name": "Operation Bravo",
+        "Country": "Madagascar",
+        "Price": 131429.97,
+        "Date": "2016-14-07"
+    },
+    {
+        "Project_Name": "Operation Bravo",
+        "Country": "Ivory Coast",
+        "Price": 680340.91,
+        "Date": "2023-29-05"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Sudan",
+        "Price": 299612.46,
+        "Date": "2019-30-03"
+    },
+    {
+        "Project_Name": "Program Gamma",
+        "Country": "Tanzania",
+        "Price": 480978.91,
+        "Date": "2019-07-06"
+    },
+    {
+        "Project_Name": "Task Tango",
+        "Country": "Burundi",
+        "Price": 190830.86,
+        "Date": "2017-29-01"
+    },
+    {
+        "Project_Name": "Task Delta",
+        "Country": "Gambia",
+        "Price": 376350.7,
+        "Date": "2020-28-10"
+    },
+    {
+        "Project_Name": "Plan Omega",
+        "Country": "Gambia",
+        "Price": 269782.32,
+        "Date": "2016-07-01"
+    },
+    {
+        "Project_Name": "Scheme Omega",
+        "Country": "Congo",
+        "Price": 976776.28,
+        "Date": "2015-19-09"
+    },
+    {
+        "Project_Name": "Operation Sierra",
+        "Country": "Guinea-Bissau",
+        "Price": 801074.0,
+        "Date": "2021-18-10"
+    },
+    {
+        "Project_Name": "Initiative Echo",
+        "Country": "South Sudan",
+        "Price": 213581.17,
+        "Date": "2020-31-10"
+    },
+    {
+        "Project_Name": "Program Bravo",
+        "Country": "Nigeria",
+        "Price": 430663.78,
+        "Date": "2024-19-07"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Malawi",
+        "Price": 155946.18,
+        "Date": "2020-11-08"
+    },
+    {
+        "Project_Name": "Program Omega",
+        "Country": "Liberia",
+        "Price": 948787.5,
+        "Date": "2021-10-09"
+    },
+    {
+        "Project_Name": "Operation Sierra",
+        "Country": "Rwanda",
+        "Price": 581502.35,
+        "Date": "2024-14-08"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Seychelles",
+        "Price": 974680.81,
+        "Date": "2018-16-02"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "South Sudan",
+        "Price": 46005.89,
+        "Date": "2015-17-03"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "Mozambique",
+        "Price": 904787.95,
+        "Date": "2023-30-01"
+    },
+    {
+        "Project_Name": "Scheme Omega",
+        "Country": "South Africa",
+        "Price": 603576.71,
+        "Date": "2016-15-05"
+    },
+    {
+        "Project_Name": "Operation Omega",
+        "Country": "South Sudan",
+        "Price": 344851.67,
+        "Date": "2021-20-03"
+    },
+    {
+        "Project_Name": "Development Sierra",
+        "Country": "Togo",
+        "Price": 674681.03,
+        "Date": "2015-31-12"
+    },
+    {
+        "Project_Name": "Program Sierra",
+        "Country": "Burkina Faso",
+        "Price": 55304.36,
+        "Date": "2022-05-09"
+    },
+    {
+        "Project_Name": "Task Delta",
+        "Country": "Algeria",
+        "Price": 105231.98,
+        "Date": "2016-23-07"
+    },
+    {
+        "Project_Name": "Scheme Omega",
+        "Country": "Botswana",
+        "Price": 716669.95,
+        "Date": "2020-31-07"
+    },
+    {
+        "Project_Name": "Scheme Omega",
+        "Country": "Liberia",
+        "Price": 154451.16,
+        "Date": "2017-05-06"
+    },
+    {
+        "Project_Name": "Project Delta",
+        "Country": "Sierra Leone",
+        "Price": 672284.47,
+        "Date": "2020-09-11"
+    },
+    {
+        "Project_Name": "Initiative Bravo",
+        "Country": "Mauritania",
+        "Price": 926044.86,
+        "Date": "2024-14-09"
+    },
+    {
+        "Project_Name": "Project Bravo",
+        "Country": "Mauritius",
+        "Price": 440731.63,
+        "Date": "2021-12-01"
+    },
+    {
+        "Project_Name": "Development Tango",
+        "Country": "Burundi",
+        "Price": 33550.64,
+        "Date": "2022-09-09"
+    },
+    {
+        "Project_Name": "Operation Omega",
+        "Country": "Benin",
+        "Price": 378240.61,
+        "Date": "2024-08-10"
+    },
+    {
+        "Project_Name": "Scheme Tango",
+        "Country": "Eswatini",
+        "Price": 345912.06,
+        "Date": "2019-20-09"
+    },
+    {
+        "Project_Name": "Scheme Echo",
+        "Country": "Madagascar",
+        "Price": 88316.88,
+        "Date": "2022-30-01"
+    },
+    {
+        "Project_Name": "Program Tango",
+        "Country": "Algeria",
+        "Price": 190348.03,
+        "Date": "2021-11-10"
+    },
+    {
+        "Project_Name": "Project Tango",
+        "Country": "Sao Tome and Principe",
+        "Price": 62240.66,
+        "Date": "2024-23-12"
+    },
+    {
+        "Project_Name": "Development Tango",
+        "Country": "Botswana",
+        "Price": 28765.09,
+        "Date": "2016-18-09"
+    },
+    {
+        "Project_Name": "Initiative Echo",
+        "Country": "Lesotho",
+        "Price": 262102.38,
+        "Date": "2020-07-10"
+    },
+    {
+        "Project_Name": "Development Echo",
+        "Country": "Mali",
+        "Price": 740886.15,
+        "Date": "2016-17-07"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Guinea-Bissau",
+        "Price": 48671.46,
+        "Date": "2024-16-05"
+    },
+    {
+        "Project_Name": "Scheme Omega",
+        "Country": "Morocco",
+        "Price": 529634.21,
+        "Date": "2019-15-11"
+    },
+    {
+        "Project_Name": "Plan Bravo",
+        "Country": "Congo",
+        "Price": 532221.78,
+        "Date": "2021-05-11"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Burundi",
+        "Price": 805848.17,
+        "Date": "2016-10-10"
+    },
+    {
+        "Project_Name": "Development Delta",
+        "Country": "Malawi",
+        "Price": 159094.23,
+        "Date": "2023-15-10"
+    },
+    {
+        "Project_Name": "Plan Bravo",
+        "Country": "Benin",
+        "Price": 447463.34,
+        "Date": "2022-22-01"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Liberia",
+        "Price": 208584.79,
+        "Date": "2019-12-09"
+    },
+    {
+        "Project_Name": "Development Bravo",
+        "Country": "Chad",
+        "Price": 528023.05,
+        "Date": "2018-06-06"
+    },
+    {
+        "Project_Name": "Project Alpha",
+        "Country": "Burundi",
+        "Price": 100764.91,
+        "Date": "2021-17-09"
+    },
+    {
+        "Project_Name": "Task Tango",
+        "Country": "Kenya",
+        "Price": 95818.76,
+        "Date": "2016-25-09"
+    },
+    {
+        "Project_Name": "Plan Echo",
+        "Country": "Tunisia",
+        "Price": 263254.8,
+        "Date": "2024-29-06"
+    },
+    {
+        "Project_Name": "Program Foxtrot",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 149985.81,
+        "Date": "2023-02-08"
+    },
+    {
+        "Project_Name": "Plan Tango",
+        "Country": "Burundi",
+        "Price": 278652.44,
+        "Date": "2020-09-03"
+    },
+    {
+        "Project_Name": "Development Sierra",
+        "Country": "Morocco",
+        "Price": 806245.9,
+        "Date": "2015-08-08"
+    },
+    {
+        "Project_Name": "Operation Gamma",
+        "Country": "Benin",
+        "Price": 935603.01,
+        "Date": "2024-25-11"
+    },
+    {
+        "Project_Name": "Operation Alpha",
+        "Country": "Ivory Coast",
+        "Price": 751187.87,
+        "Date": "2023-01-02"
+    },
+    {
+        "Project_Name": "Development Foxtrot",
+        "Country": "Lesotho",
+        "Price": 439283.46,
+        "Date": "2023-05-03"
+    },
+    {
+        "Project_Name": "Plan Foxtrot",
+        "Country": "Gabon",
+        "Price": 948952.1,
+        "Date": "2022-12-01"
+    },
+    {
+        "Project_Name": "Program Sierra",
+        "Country": "Comoros",
+        "Price": 243304.52,
+        "Date": "2023-28-07"
+    },
+    {
+        "Project_Name": "Task Tango",
+        "Country": "Senegal",
+        "Price": 11263.52,
+        "Date": "2018-09-02"
+    },
+    {
+        "Project_Name": "Plan Delta",
+        "Country": "Uganda",
+        "Price": 304839.48,
+        "Date": "2022-02-08"
+    },
+    {
+        "Project_Name": "Plan Bravo",
+        "Country": "Morocco",
+        "Price": 994700.75,
+        "Date": "2023-25-07"
+    },
+    {
+        "Project_Name": "Project Tango",
+        "Country": "Sierra Leone",
+        "Price": 833906.66,
+        "Date": "2018-08-06"
+    },
+    {
+        "Project_Name": "Initiative Bravo",
+        "Country": "Seychelles",
+        "Price": 135500.0,
+        "Date": "2016-07-08"
+    },
+    {
+        "Project_Name": "Operation Zeta",
+        "Country": "Seychelles",
+        "Price": 388102.52,
+        "Date": "2019-27-02"
+    },
+    {
+        "Project_Name": "Scheme Bravo",
+        "Country": "Somalia",
+        "Price": 28362.86,
+        "Date": "2018-05-08"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Gabon",
+        "Price": 50467.44,
+        "Date": "2019-03-02"
+    },
+    {
+        "Project_Name": "Program Zeta",
+        "Country": "Sao Tome and Principe",
+        "Price": 594114.38,
+        "Date": "2024-07-12"
+    },
+    {
+        "Project_Name": "Operation Alpha",
+        "Country": "Sudan",
+        "Price": 410811.26,
+        "Date": "2015-19-10"
+    },
+    {
+        "Project_Name": "Project Zeta",
+        "Country": "Liberia",
+        "Price": 28920.29,
+        "Date": "2020-13-02"
+    },
+    {
+        "Project_Name": "Development Tango",
+        "Country": "Tanzania",
+        "Price": 920046.96,
+        "Date": "2017-22-03"
+    },
+    {
+        "Project_Name": "Initiative Alpha",
+        "Country": "Eswatini",
+        "Price": 16281.87,
+        "Date": "2021-26-07"
+    },
+    {
+        "Project_Name": "Plan Foxtrot",
+        "Country": "Togo",
+        "Price": 361506.85,
+        "Date": "2022-24-05"
+    },
+    {
+        "Project_Name": "Development Sierra",
+        "Country": "Ethiopia",
+        "Price": 532496.57,
+        "Date": "2018-22-02"
+    },
+    {
+        "Project_Name": "Plan Tango",
+        "Country": "Ethiopia",
+        "Price": 499863.45,
+        "Date": "2023-10-01"
+    },
+    {
+        "Project_Name": "Program Gamma",
+        "Country": "Togo",
+        "Price": 726919.77,
+        "Date": "2022-22-01"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Sao Tome and Principe",
+        "Price": 711709.53,
+        "Date": "2021-28-03"
+    },
+    {
+        "Project_Name": "Operation Echo",
+        "Country": "Malawi",
+        "Price": 70076.13,
+        "Date": "2016-07-11"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Eswatini",
+        "Price": 757607.13,
+        "Date": "2019-06-08"
+    },
+    {
+        "Project_Name": "Development Alpha",
+        "Country": "Togo",
+        "Price": 738100.93,
+        "Date": "2018-19-02"
+    },
+    {
+        "Project_Name": "Plan Sierra",
+        "Country": "Angola",
+        "Price": 84902.17,
+        "Date": "2015-28-05"
+    },
+    {
+        "Project_Name": "Task Zeta",
+        "Country": "Chad",
+        "Price": 667418.48,
+        "Date": "2024-28-09"
+    },
+    {
+        "Project_Name": "Program Delta",
+        "Country": "Angola",
+        "Price": 764882.47,
+        "Date": "2022-18-01"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "Benin",
+        "Price": 871045.82,
+        "Date": "2018-14-06"
+    },
+    {
+        "Project_Name": "Plan Sierra",
+        "Country": "Burkina Faso",
+        "Price": 25212.36,
+        "Date": "2024-09-12"
+    },
+    {
+        "Project_Name": "Development Alpha",
+        "Country": "Comoros",
+        "Price": 884161.34,
+        "Date": "2017-05-07"
+    },
+    {
+        "Project_Name": "Plan Foxtrot",
+        "Country": "Kenya",
+        "Price": 550174.85,
+        "Date": "2023-16-10"
+    },
+    {
+        "Project_Name": "Project Bravo",
+        "Country": "Cameroon",
+        "Price": 324702.02,
+        "Date": "2021-02-10"
+    },
+    {
+        "Project_Name": "Scheme Alpha",
+        "Country": "Mauritius",
+        "Price": 644465.37,
+        "Date": "2022-23-11"
+    },
+    {
+        "Project_Name": "Scheme Bravo",
+        "Country": "South Africa",
+        "Price": 976284.94,
+        "Date": "2015-28-03"
+    },
+    {
+        "Project_Name": "Program Sierra",
+        "Country": "South Africa",
+        "Price": 985171.44,
+        "Date": "2017-10-12"
+    },
+    {
+        "Project_Name": "Task Alpha",
+        "Country": "Malawi",
+        "Price": 865871.61,
+        "Date": "2018-11-06"
+    },
+    {
+        "Project_Name": "Development Alpha",
+        "Country": "Eswatini",
+        "Price": 291519.24,
+        "Date": "2018-04-07"
+    },
+    {
+        "Project_Name": "Program Alpha",
+        "Country": "Sudan",
+        "Price": 846962.65,
+        "Date": "2021-24-09"
+    },
+    {
+        "Project_Name": "Initiative Gamma",
+        "Country": "Kenya",
+        "Price": 973468.16,
+        "Date": "2017-08-03"
+    },
+    {
+        "Project_Name": "Project Delta",
+        "Country": "Guinea-Bissau",
+        "Price": 872586.76,
+        "Date": "2023-11-09"
+    },
+    {
+        "Project_Name": "Initiative Foxtrot",
+        "Country": "Ghana",
+        "Price": 640090.69,
+        "Date": "2021-30-04"
+    },
+    {
+        "Project_Name": "Program Echo",
+        "Country": "Chad",
+        "Price": 160446.43,
+        "Date": "2019-09-12"
+    },
+    {
+        "Project_Name": "Program Sierra",
+        "Country": "Sierra Leone",
+        "Price": 907356.63,
+        "Date": "2017-04-06"
+    },
+    {
+        "Project_Name": "Operation Sierra",
+        "Country": "Mali",
+        "Price": 358234.27,
+        "Date": "2019-08-02"
+    },
+    {
+        "Project_Name": "Project Bravo",
+        "Country": "Sierra Leone",
+        "Price": 291106.94,
+        "Date": "2021-06-07"
+    },
+    {
+        "Project_Name": "Program Zeta",
+        "Country": "Angola",
+        "Price": 314807.57,
+        "Date": "2024-05-06"
+    },
+    {
+        "Project_Name": "Plan Zeta",
+        "Country": "Eritrea",
+        "Price": 722796.26,
+        "Date": "2024-11-02"
+    },
+    {
+        "Project_Name": "Program Sierra",
+        "Country": "Eritrea",
+        "Price": 950387.3,
+        "Date": "2016-26-12"
+    },
+    {
+        "Project_Name": "Project Gamma",
+        "Country": "Mozambique",
+        "Price": 316610.72,
+        "Date": "2019-02-11"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "Mozambique",
+        "Price": 143643.35,
+        "Date": "2024-31-12"
+    },
+    {
+        "Project_Name": "Task Bravo",
+        "Country": "Botswana",
+        "Price": 536837.96,
+        "Date": "2020-12-01"
+    },
+    {
+        "Project_Name": "Development Gamma",
+        "Country": "Nigeria",
+        "Price": 909014.97,
+        "Date": "2017-21-09"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "South Sudan",
+        "Price": 35249.36,
+        "Date": "2015-22-11"
+    },
+    {
+        "Project_Name": "Scheme Alpha",
+        "Country": "Mauritius",
+        "Price": 976823.53,
+        "Date": "2016-23-12"
+    },
+    {
+        "Project_Name": "Plan Gamma",
+        "Country": "Morocco",
+        "Price": 873254.61,
+        "Date": "2017-20-01"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Senegal",
+        "Price": 650387.09,
+        "Date": "2018-06-01"
+    },
+    {
+        "Project_Name": "Task Bravo",
+        "Country": "Egypt",
+        "Price": 570685.22,
+        "Date": "2024-08-06"
+    },
+    {
+        "Project_Name": "Operation Tango",
+        "Country": "Rwanda",
+        "Price": 613044.75,
+        "Date": "2015-24-02"
+    },
+    {
+        "Project_Name": "Operation Tango",
+        "Country": "Gabon",
+        "Price": 786846.09,
+        "Date": "2017-15-11"
+    },
+    {
+        "Project_Name": "Development Omega",
+        "Country": "Kenya",
+        "Price": 157520.24,
+        "Date": "2016-16-06"
+    },
+    {
+        "Project_Name": "Plan Echo",
+        "Country": "Equatorial Guinea",
+        "Price": 452223.12,
+        "Date": "2024-11-07"
+    },
+    {
+        "Project_Name": "Program Sierra",
+        "Country": "Uganda",
+        "Price": 491380.55,
+        "Date": "2024-07-11"
+    },
+    {
+        "Project_Name": "Project Omega",
+        "Country": "Sao Tome and Principe",
+        "Price": 877948.09,
+        "Date": "2020-05-11"
+    },
+    {
+        "Project_Name": "Operation Bravo",
+        "Country": "Algeria",
+        "Price": 214894.81,
+        "Date": "2015-07-02"
+    },
+    {
+        "Project_Name": "Program Alpha",
+        "Country": "Sao Tome and Principe",
+        "Price": 398518.9,
+        "Date": "2022-15-04"
+    },
+    {
+        "Project_Name": "Task Alpha",
+        "Country": "Guinea-Bissau",
+        "Price": 782098.16,
+        "Date": "2015-10-12"
+    },
+    {
+        "Project_Name": "Development Sierra",
+        "Country": "Zimbabwe",
+        "Price": 823632.41,
+        "Date": "2020-06-08"
+    },
+    {
+        "Project_Name": "Development Foxtrot",
+        "Country": "Gambia",
+        "Price": 87800.36,
+        "Date": "2020-22-04"
+    },
+    {
+        "Project_Name": "Operation Sierra",
+        "Country": "Eswatini",
+        "Price": 86117.87,
+        "Date": "2024-24-04"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Ethiopia",
+        "Price": 975540.25,
+        "Date": "2023-25-11"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Congo",
+        "Price": 66252.23,
+        "Date": "2017-01-12"
+    },
+    {
+        "Project_Name": "Scheme Foxtrot",
+        "Country": "Democratic Republic of the Congo",
+        "Price": 34313.11,
+        "Date": "2016-26-11"
+    },
+    {
+        "Project_Name": "Program Zeta",
+        "Country": "Cabo Verde",
+        "Price": 307629.66,
+        "Date": "2015-09-01"
+    },
+    {
+        "Project_Name": "Scheme Delta",
+        "Country": "Zimbabwe",
+        "Price": 563087.99,
+        "Date": "2024-02-09"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Lesotho",
+        "Price": 57356.64,
+        "Date": "2024-10-03"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Liberia",
+        "Price": 850954.36,
+        "Date": "2015-14-03"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "Zimbabwe",
+        "Price": 210122.14,
+        "Date": "2016-01-07"
+    },
+    {
+        "Project_Name": "Program Zeta",
+        "Country": "Gabon",
+        "Price": 651116.88,
+        "Date": "2017-02-07"
+    },
+    {
+        "Project_Name": "Development Omega",
+        "Country": "Ethiopia",
+        "Price": 140031.59,
+        "Date": "2020-26-01"
+    },
+    {
+        "Project_Name": "Plan Delta",
+        "Country": "Sao Tome and Principe",
+        "Price": 790030.88,
+        "Date": "2021-29-08"
+    },
+    {
+        "Project_Name": "Program Echo",
+        "Country": "Liberia",
+        "Price": 471507.78,
+        "Date": "2018-04-05"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Senegal",
+        "Price": 807078.92,
+        "Date": "2015-31-10"
+    },
+    {
+        "Project_Name": "Project Echo",
+        "Country": "Mali",
+        "Price": 783405.97,
+        "Date": "2023-05-10"
+    },
+    {
+        "Project_Name": "Scheme Tango",
+        "Country": "Equatorial Guinea",
+        "Price": 441227.8,
+        "Date": "2023-14-10"
+    },
+    {
+        "Project_Name": "Operation Foxtrot",
+        "Country": "Comoros",
+        "Price": 289888.1,
+        "Date": "2024-25-10"
+    },
+    {
+        "Project_Name": "Scheme Bravo",
+        "Country": "Gambia",
+        "Price": 698762.68,
+        "Date": "2017-23-11"
+    },
+    {
+        "Project_Name": "Initiative Gamma",
+        "Country": "Central African Republic",
+        "Price": 11696.64,
+        "Date": "2023-31-07"
+    },
+    {
+        "Project_Name": "Development Gamma",
+        "Country": "Somalia",
+        "Price": 726726.88,
+        "Date": "2018-10-11"
+    },
+    {
+        "Project_Name": "Task Echo",
+        "Country": "Mali",
+        "Price": 664973.85,
+        "Date": "2017-04-06"
+    },
+    {
+        "Project_Name": "Scheme Delta",
+        "Country": "Morocco",
+        "Price": 949525.17,
+        "Date": "2024-29-11"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "Zimbabwe",
+        "Price": 237410.38,
+        "Date": "2017-27-05"
+    },
+    {
+        "Project_Name": "Initiative Tango",
+        "Country": "Gambia",
+        "Price": 18350.38,
+        "Date": "2019-23-12"
+    },
+    {
+        "Project_Name": "Scheme Delta",
+        "Country": "Somalia",
+        "Price": 26797.18,
+        "Date": "2018-24-04"
+    },
+    {
+        "Project_Name": "Program Tango",
+        "Country": "Congo",
+        "Price": 775459.47,
+        "Date": "2023-14-08"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "South Sudan",
+        "Price": 787290.82,
+        "Date": "2019-10-07"
+    },
+    {
+        "Project_Name": "Development Alpha",
+        "Country": "Benin",
+        "Price": 588046.95,
+        "Date": "2018-08-01"
+    },
+    {
+        "Project_Name": "Operation Delta",
+        "Country": "Namibia",
+        "Price": 72916.17,
+        "Date": "2024-07-03"
+    },
+    {
+        "Project_Name": "Development Foxtrot",
+        "Country": "Morocco",
+        "Price": 419388.8,
+        "Date": "2022-18-03"
+    },
+    {
+        "Project_Name": "Project Gamma",
+        "Country": "Madagascar",
+        "Price": 907003.05,
+        "Date": "2018-02-08"
+    },
+    {
+        "Project_Name": "Plan Foxtrot",
+        "Country": "Gambia",
+        "Price": 143181.04,
+        "Date": "2024-09-01"
+    },
+    {
+        "Project_Name": "Plan Echo",
+        "Country": "Zimbabwe",
+        "Price": 148082.73,
+        "Date": "2018-17-10"
+    },
+    {
+        "Project_Name": "Project Sierra",
+        "Country": "Tunisia",
+        "Price": 202175.47,
+        "Date": "2019-17-06"
+    },
+    {
+        "Project_Name": "Program Delta",
+        "Country": "Guinea-Bissau",
+        "Price": 843606.56,
+        "Date": "2021-13-08"
+    },
+    {
+        "Project_Name": "Initiative Gamma",
+        "Country": "Madagascar",
+        "Price": 44177.89,
+        "Date": "2023-06-11"
+    },
+    {
+        "Project_Name": "Development Tango",
+        "Country": "Equatorial Guinea",
+        "Price": 131297.19,
+        "Date": "2015-02-11"
+    },
+    {
+        "Project_Name": "Project Omega",
+        "Country": "Kenya",
+        "Price": 291341.45,
+        "Date": "2019-30-01"
+    },
+    {
+        "Project_Name": "Plan Echo",
+        "Country": "Zambia",
+        "Price": 595067.07,
+        "Date": "2019-03-09"
+    },
+    {
+        "Project_Name": "Initiative Sierra",
+        "Country": "Cabo Verde",
+        "Price": 863514.91,
+        "Date": "2024-09-06"
+    },
+    {
+        "Project_Name": "Scheme Gamma",
+        "Country": "Tunisia",
+        "Price": 868412.59,
+        "Date": "2017-07-07"
+    },
+    {
+        "Project_Name": "Operation Zeta",
+        "Country": "Tanzania",
+        "Price": 211447.4,
+        "Date": "2016-17-01"
+    },
+    {
+        "Project_Name": "Scheme Foxtrot",
+        "Country": "Kenya",
+        "Price": 111209.3,
+        "Date": "2022-13-03"
+    },
+    {
+        "Project_Name": "Operation Alpha",
+        "Country": "Ivory Coast",
+        "Price": 992196.9,
+        "Date": "2017-30-04"
+    },
+    {
+        "Project_Name": "Task Tango",
+        "Country": "Mauritania",
+        "Price": 754817.76,
+        "Date": "2016-31-01"
+    },
+    {
+        "Project_Name": "Task Gamma",
+        "Country": "Nigeria",
+        "Price": 402819.24,
+        "Date": "2016-19-06"
+    },
+    {
+        "Project_Name": "Program Zeta",
+        "Country": "South Africa",
+        "Price": 741611.97,
+        "Date": "2017-22-08"
+    },
+    {
+        "Project_Name": "Scheme Omega",
+        "Country": "Sao Tome and Principe",
+        "Price": 430804.51,
+        "Date": "2015-21-04"
+    },
+    {
+        "Project_Name": "Development Zeta",
+        "Country": "Sierra Leone",
+        "Price": 794902.74,
+        "Date": "2024-29-03"
+    },
+    {
+        "Project_Name": "Initiative Omega",
+        "Country": "Senegal",
+        "Price": 511157.19,
+        "Date": "2018-16-01"
+    },
+    {
+        "Project_Name": "Plan Zeta",
+        "Country": "Burundi",
+        "Price": 67827.3,
+        "Date": "2020-01-12"
+    },
+    {
+        "Project_Name": "Initiative Alpha",
+        "Country": "Tunisia",
+        "Price": 623269.54,
+        "Date": "2017-03-11"
+    },
+    {
+        "Project_Name": "Development Omega",
+        "Country": "Ghana",
+        "Price": 959978.72,
+        "Date": "2015-21-07"
+    },
+    {
+        "Project_Name": "Operation Alpha",
+        "Country": "Mozambique",
+        "Price": 712916.78,
+        "Date": "2017-16-07"
+    },
+    {
+        "Project_Name": "Project Foxtrot",
+        "Country": "Uganda",
+        "Price": 622225.42,
+        "Date": "2017-21-09"
+    },
+    {
+        "Project_Name": "Operation Omega",
+        "Country": "Namibia",
+        "Price": 423463.66,
+        "Date": "2022-09-11"
+    },
+    {
+        "Project_Name": "Scheme Delta",
+        "Country": "Zimbabwe",
+        "Price": 303695.89,
+        "Date": "2019-05-07"
+    },
+    {
+        "Project_Name": "Project Delta",
+        "Country": "Eritrea",
+        "Price": 493805.52,
+        "Date": "2016-19-11"
+    },
+    {
+        "Project_Name": "Project Foxtrot",
+        "Country": "Ethiopia",
+        "Price": 968415.14,
+        "Date": "2016-20-04"
+    },
+    {
+        "Project_Name": "Plan Bravo",
+        "Country": "Burkina Faso",
+        "Price": 265842.46,
+        "Date": "2023-28-03"
+    },
+    {
+        "Project_Name": "Project Gamma",
+        "Country": "Guinea-Bissau",
+        "Price": 212217.76,
+        "Date": "2021-14-08"
+    },
+    {
+        "Project_Name": "Scheme Zeta",
+        "Country": "Kenya",
+        "Price": 568110.32,
+        "Date": "2020-18-11"
+    },
+    {
+        "Project_Name": "Task Omega",
+        "Country": "Ethiopia",
+        "Price": 704188.98,
+        "Date": "2024-20-09"
+    },
+    {
+        "Project_Name": "Development Foxtrot",
+        "Country": "Burundi",
+        "Price": 581769.1,
+        "Date": "2019-02-06"
+    },
+    {
+        "Project_Name": "Task Gamma",
+        "Country": "Tanzania",
+        "Price": 524579.21,
+        "Date": "2022-18-06"
+    },
+    {
+        "Project_Name": "Task Bravo",
+        "Country": "Somalia",
+        "Price": 845325.16,
+        "Date": "2019-03-11"
+    },
+    {
+        "Project_Name": "Plan Alpha",
+        "Country": "Mali",
+        "Price": 517170.64,
+        "Date": "2023-08-02"
+    },
+    {
+        "Project_Name": "Scheme Foxtrot",
+        "Country": "Central African Republic",
+        "Price": 962009.39,
+        "Date": "2022-16-05"
+    },
+    {
+        "Project_Name": "Operation Sierra",
+        "Country": "Niger",
+        "Price": 978736.37,
+        "Date": "2018-25-08"
+    },
+    {
+        "Project_Name": "Initiative Echo",
+        "Country": "Lesotho",
+        "Price": 605951.07,
+        "Date": "2015-29-04"
+    },
+    {
+        "Project_Name": "Program Delta",
+        "Country": "Burundi",
+        "Price": 395834.42,
+        "Date": "2024-22-07"
+    },
+    {
+        "Project_Name": "Development Alpha",
+        "Country": "Somalia",
+        "Price": 325178.92,
+        "Date": "2020-27-01"
+    },
+    {
+        "Project_Name": "Scheme Delta",
+        "Country": "Cameroon",
+        "Price": 976722.24,
+        "Date": "2018-28-07"
+    },
+    {
+        "Project_Name": "Project Gamma",
+        "Country": "Ghana",
+        "Price": 196449.23,
+        "Date": "2020-09-05"
+    },
+    {
+        "Project_Name": "Project Zeta",
+        "Country": "Sierra Leone",
+        "Price": 522418.89,
+        "Date": "2022-17-07"
+    },
+    {
+        "Project_Name": "Plan Omega",
+        "Country": "Chad",
+        "Price": 888266.87,
+        "Date": "2016-12-11"
+    },
+    {
+        "Project_Name": "Project Tango",
+        "Country": "Guinea",
+        "Price": 974195.71,
+        "Date": "2016-06-02"
+    },
+    {
+        "Project_Name": "Project Bravo",
+        "Country": "Ghana",
+        "Price": 747141.8,
+        "Date": "2016-23-01"
+    },
+    {
+        "Project_Name": "Scheme Alpha",
+        "Country": "Benin",
+        "Price": 499877.24,
+        "Date": "2016-12-04"
+    },
+    {
+        "Project_Name": "Task Sierra",
+        "Country": "Cameroon",
+        "Price": 423202.99,
+        "Date": "2022-30-03"
+    }
+]

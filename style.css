@@ -1,0 +1,173 @@
+#Excel_Style_Table .filtered-out {
+    display: none !important;
+}
+
+/* Styling class for the subscription button */
+#Excel_Style_Table .subscribe-btn {
+    background-color: #0185AF;
+    color: #FFF;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Styling class for when someone hovers over the subscription button */
+#Excel_Style_Table .subscribe-btn:hover {
+    background-color: #6FC6E2;
+    color: #FFF;
+}
+
+/* Styling class for when someone is clicking on the subscription button */
+#Excel_Style_Table .subscribe-btn:active {
+    transform: scale(0.95);
+}
+
+#Excel_Style_Table .dropdown-menu.show {
+    width: 150%;
+    border-radius: 0.5rem;
+    top: 40px !important;
+    transform: none !important;
+    z-index: 3;
+}
+
+#Excel_Style_Table a {
+    cursor: pointer;
+}
+
+.pager {
+    margin-bottom: 5px;
+}
+
+.pager .btn {
+    background-color: transparent !important;
+    border: none;
+    border-radius: 0 !important;
+    color: #000;
+    font-weight: 400;
+    margin: 0 2px;
+    min-width: 24px;
+    padding: 3px 5px;
+}
+
+.btn {
+    font-family: Libre Franklin;
+    font-size: 1rem; 
+    display: inline-block;
+    line-height: 1.5;
+    text-align: center;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    user-select: none;
+    vertical-align: middle;
+}
+
+.pager .btn.num.active {
+    border-bottom: 4px solid #0081a1;
+    position: relative;
+    top: 2px;
+}
+
+.pager.pager-w1 .btn.num {
+    width: 20px;
+}
+
+.svg-inline--fa {
+    display: var(--fa-display, inline-block);
+    height: 1em;
+    overflow: visible;
+    vertical-align: -0.125em;
+}
+
+svg:not(:root).svg-inline--fa, svg:not(:host).svg-inline--fa {
+    overflow: visible;
+    box-sizing: content-box;
+}
+
+#Excel_Style_Table .header-dropdown-options-box .select-dropdown {
+    padding: 0rem 1.5rem;
+}
+
+#Excel_Style_Table .dropdown-right {
+    left: auto !important;
+    right: 50% !important;
+}
+
+#Excel_Style_Table .dropdown-left {
+    left: 50% !important;
+    right: auto !important;
+}
+
+#Excel_Style_Table .basic-table-header {
+    background-color: #FFFFFF;
+    color: #495057;
+    font-size: 15px;
+    text-align: center;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+}
+
+#Excel_Style_Table .header-dropdown {
+    color: #495057;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    margin: auto;
+}
+
+#Excel_Style_Table .header-dropdown-contains {
+    cursor: pointer; 
+    margin-bottom: 0px; 
+    font-weight: normal;
+}
+
+#Excel_Style_Table .header-dropdown-not-contains {
+    cursor: pointer; 
+    margin-bottom: 0px; 
+    font-weight: normal;
+}
+
+#Excel_Style_Table .section-title {
+    margin: 0px;
+    padding-left: 7px;
+    font-size: 15px;
+}
+
+#Excel_Style_Table .dropdown-section-divider {
+    margin: 0px;
+    margin-bottom: 5px;
+    width: 90%;
+    margin-left: 5%;
+    border-top: 1px solid #bbb;
+}
+
+#Excel_Style_Table .header-dropdown-search {
+    margin-top: 7px; 
+    margin-bottom: 7px;
+}
+
+#Excel_Style_Table .header-dropdown-options-box {
+    max-height: 135px; 
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+#Excel_Style_Table .header-dropdown-option {
+    cursor: pointer; 
+    font-size: 16px; 
+    font-weight: normal; 
+    margin: auto;
+}
+
+#Excel_Style_Table .expand-icon {
+    display: inline-block;
+}
+
+#Excel_Style_Table .expand-icon.expanded {
+    transform: rotate(-90deg); /* Rotate the icon 90 degrees */
+}
+
+#Excel_Style_Table .hide-button {
+    display: none; /* hide buttons */
+}
+
+#Excel_Style_Table .filter-button {
+    display: none; /* hide buttons */
+}
